@@ -1,0 +1,3991 @@
+fileFormatVersion: 2
+guid: 17d38d5dd653daf408d796d819791df8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: dummyverg
+    100002: dummyvers
+    100004: g1_link0_geom1
+    100006: g1_link0_geom2
+    100008: g1_link0_geom3
+    100010: g1_link0_geom4
+    100012: g1_link0_geom5
+    100014: g1_link0_geom6
+    100016: g1_link0_geom7
+    100018: g1_link0_geom8
+    100020: g1_link0_geom9
+    100022: g1_link10_geom1
+    100024: g1_link14_geom1
+    100026: g1_link14_geom2
+    100028: g1_link14_geom3
+    100030: g1_link14_geom4
+    100032: g1_link15_geom1
+    100034: g1_link15_geom2
+    100036: g1_link15_geom3
+    100038: g1_link15_geom4
+    100040: g1_link15_geom5
+    100042: g1_link15_geom6
+    100044: g1_link15_geom7
+    100046: g1_link16_geom1
+    100048: g1_link16_geom2
+    100050: g1_link16_geom3
+    100052: g1_link16_geom4
+    100054: g1_link16_geom5
+    100056: g1_link16_geom6
+    100058: g1_link18_geom1
+    100060: g1_link18_geom2
+    100062: g1_link18_geom3
+    100064: g1_link18_geom4
+    100066: g1_link1_geom1
+    100068: g1_link20_geom1
+    100070: g1_link20_geom2
+    100072: g1_link20_geom3
+    100074: g1_link20_geom4
+    100076: g1_link20_geom5
+    100078: g1_link20_geom6
+    100080: g1_link23_geom1
+    100082: g1_link23_geom2
+    100084: g1_link24_geom1
+    100086: g1_link24_geom2
+    100088: g1_link24_geom3
+    100090: g1_link24_geom4
+    100092: g1_link24_geom5
+    100094: g1_link25_geom1
+    100096: g1_link25_geom2
+    100098: g1_link25_geom3
+    100100: g1_link25_geom4
+    100102: g1_link25_geom5
+    100104: g1_link26_geom1
+    100106: g1_link26_geom2
+    100108: g1_link26_geom3
+    100110: g1_link28_geom1
+    100112: g1_link28_geom2
+    100114: g1_link28_geom3
+    100116: g1_link28_geom4
+    100118: g1_link28_geom5
+    100120: g1_link29_geom1
+    100122: g1_link29_geom2
+    100124: g1_link29_geom3
+    100126: g1_link29_geom4
+    100128: g1_link29_geom5
+    100130: g1_link2_geom1
+    100132: g1_link2_geom2
+    100134: g1_link2_geom3
+    100136: g1_link2_geom4
+    100138: g1_link2_geom5
+    100140: g1_link30_geom1
+    100142: g1_link30_geom2
+    100144: g1_link30_geom3
+    100146: g1_link30_geom4
+    100148: g1_link30_geom5
+    100150: g1_link31_geom1
+    100152: g1_link31_geom2
+    100154: g1_link31_geom3
+    100156: g1_link33_geom1
+    100158: g1_link33_geom2
+    100160: g1_link33_geom3
+    100162: g1_link33_geom4
+    100164: g1_link33_geom5
+    100166: g1_link34_geom1
+    100168: g1_link34_geom2
+    100170: g1_link34_geom3
+    100172: g1_link34_geom4
+    100174: g1_link34_geom5
+    100176: g1_link35_geom1
+    100178: g1_link35_geom2
+    100180: g1_link35_geom3
+    100182: g1_link35_geom4
+    100184: g1_link35_geom5
+    100186: g1_link36_geom1
+    100188: g1_link36_geom2
+    100190: g1_link36_geom3
+    100192: g1_link38_geom1
+    100194: g1_link38_geom2
+    100196: g1_link38_geom3
+    100198: g1_link38_geom4
+    100200: g1_link38_geom5
+    100202: g1_link39_geom1
+    100204: g1_link39_geom2
+    100206: g1_link39_geom3
+    100208: g1_link39_geom4
+    100210: g1_link39_geom5
+    100212: g1_link3_geom1
+    100214: g1_link3_geom10
+    100216: g1_link3_geom11
+    100218: g1_link3_geom2
+    100220: g1_link3_geom3
+    100222: g1_link3_geom4
+    100224: g1_link3_geom5
+    100226: g1_link3_geom6
+    100228: g1_link3_geom7
+    100230: g1_link3_geom8
+    100232: g1_link3_geom9
+    100234: g1_link40_geom1
+    100236: g1_link40_geom2
+    100238: g1_link40_geom3
+    100240: g1_link40_geom4
+    100242: g1_link40_geom5
+    100244: g1_link41_geom1
+    100246: g1_link41_geom2
+    100248: g1_link41_geom3
+    100250: g1_link43_geom1
+    100252: g1_link43_geom2
+    100254: g1_link43_geom3
+    100256: g1_link43_geom4
+    100258: g1_link43_geom5
+    100260: g1_link44_geom1
+    100262: g1_link44_geom2
+    100264: g1_link44_geom3
+    100266: g1_link44_geom4
+    100268: g1_link44_geom5
+    100270: g1_link45_geom1
+    100272: g1_link45_geom2
+    100274: g1_link45_geom3
+    100276: g1_link45_geom4
+    100278: g1_link45_geom5
+    100280: g1_link46_geom1
+    100282: g1_link46_geom2
+    100284: g1_link46_geom3
+    100286: g1_link48_geom1
+    100288: g1_link48_geom2
+    100290: g1_link48_geom3
+    100292: g1_link48_geom4
+    100294: g1_link49_geom1
+    100296: g1_link49_geom2
+    100298: g1_link49_geom3
+    100300: g1_link49_geom4
+    100302: g1_link49_geom5
+    100304: g1_link49_geom6
+    100306: g1_link49_geom7
+    100308: g1_link4_geom1
+    100310: g1_link50_geom1
+    100312: g1_link50_geom2
+    100314: g1_link50_geom3
+    100316: g1_link50_geom4
+    100318: g1_link50_geom5
+    100320: g1_link50_geom6
+    100322: g1_link52_geom1
+    100324: g1_link52_geom2
+    100326: g1_link52_geom3
+    100328: g1_link52_geom4
+    100330: g1_link54_geom1
+    100332: g1_link54_geom2
+    100334: g1_link54_geom3
+    100336: g1_link54_geom4
+    100338: g1_link54_geom5
+    100340: g1_link54_geom6
+    100342: g1_link57_geom1
+    100344: g1_link57_geom2
+    100346: g1_link58_geom1
+    100348: g1_link58_geom2
+    100350: g1_link58_geom3
+    100352: g1_link58_geom4
+    100354: g1_link58_geom5
+    100356: g1_link59_geom1
+    100358: g1_link59_geom2
+    100360: g1_link59_geom3
+    100362: g1_link59_geom4
+    100364: g1_link59_geom5
+    100366: g1_link60_geom1
+    100368: g1_link60_geom2
+    100370: g1_link60_geom3
+    100372: g1_link62_geom1
+    100374: g1_link62_geom2
+    100376: g1_link62_geom3
+    100378: g1_link62_geom4
+    100380: g1_link62_geom5
+    100382: g1_link63_geom1
+    100384: g1_link63_geom2
+    100386: g1_link63_geom3
+    100388: g1_link63_geom4
+    100390: g1_link63_geom5
+    100392: g1_link64_geom1
+    100394: g1_link64_geom2
+    100396: g1_link64_geom3
+    100398: g1_link64_geom4
+    100400: g1_link64_geom5
+    100402: g1_link65_geom1
+    100404: g1_link65_geom2
+    100406: g1_link65_geom3
+    100408: g1_link67_geom1
+    100410: g1_link67_geom2
+    100412: g1_link67_geom3
+    100414: g1_link67_geom4
+    100416: g1_link67_geom5
+    100418: g1_link68_geom1
+    100420: g1_link68_geom2
+    100422: g1_link68_geom3
+    100424: g1_link68_geom4
+    100426: g1_link68_geom5
+    100428: g1_link69_geom1
+    100430: g1_link69_geom2
+    100432: g1_link69_geom3
+    100434: g1_link69_geom4
+    100436: g1_link69_geom5
+    100438: g1_link6_geom1
+    100440: g1_link70_geom1
+    100442: g1_link70_geom2
+    100444: g1_link70_geom3
+    100446: g1_link72_geom1
+    100448: g1_link72_geom2
+    100450: g1_link72_geom3
+    100452: g1_link72_geom4
+    100454: g1_link72_geom5
+    100456: g1_link73_geom1
+    100458: g1_link73_geom2
+    100460: g1_link73_geom3
+    100462: g1_link73_geom4
+    100464: g1_link73_geom5
+    100466: g1_link74_geom1
+    100468: g1_link74_geom2
+    100470: g1_link74_geom3
+    100472: g1_link74_geom4
+    100474: g1_link74_geom5
+    100476: g1_link75_geom1
+    100478: g1_link75_geom2
+    100480: g1_link75_geom3
+    100482: g1_link77_geom1
+    100484: g1_link77_geom2
+    100486: g1_link77_geom3
+    100488: g1_link77_geom4
+    100490: g1_link77_geom5
+    100492: g1_link78_geom1
+    100494: g1_link78_geom2
+    100496: g1_link78_geom3
+    100498: g1_link78_geom4
+    100500: g1_link78_geom5
+    100502: g1_link79_geom1
+    100504: g1_link79_geom2
+    100506: g1_link79_geom3
+    100508: g1_link79_geom4
+    100510: g1_link79_geom5
+    100512: g1_link80_geom1
+    100514: g1_link80_geom2
+    100516: g1_link80_geom3
+    100518: g1_link81_geom1
+    100520: g1_link81_geom2
+    100522: g1_link83_geom1
+    100524: g1_link83_geom2
+    100526: g1_link83_geom3
+    100528: g1_link83_geom4
+    100530: g1_link84_geom1
+    100532: g1_link84_geom2
+    100534: g1_link84_geom3
+    100536: g1_link84_geom4
+    100538: g1_link84_geom5
+    100540: g1_link85_geom1
+    100542: g1_link85_geom2
+    100544: g1_link85_geom3
+    100546: g1_link85_geom4
+    100548: g1_link85_geom5
+    100550: g1_link85_geom6
+    100552: g1_link85_geom7
+    100554: g1_link85_geom8
+    100556: g1_link86_geom1
+    100558: g1_link88_geom1
+    100560: g1_link88_geom2
+    100562: g1_link8_geom1
+    100564: g1_link90_geom1
+    100566: g1_link90_geom2
+    100568: g1_link90_geom3
+    100570: g1_link90_geom4
+    100572: g1_link91_geom1
+    100574: g1_link91_geom2
+    100576: g1_link91_geom3
+    100578: g1_link91_geom4
+    100580: g1_link91_geom5
+    100582: g1_link92_geom1
+    100584: g1_link92_geom2
+    100586: g1_link92_geom3
+    100588: g1_link92_geom4
+    100590: g1_link92_geom5
+    100592: g1_link92_geom6
+    100594: g1_link92_geom7
+    100596: g1_link92_geom8
+    100598: g1_link93_geom1
+    100600: //RootNode
+    100602: il0
+    100604: il1
+    100606: il2
+    100608: il3
+    100610: indexbase
+    100612: l0
+    100614: l1
+    100616: l2
+    100618: l3
+    100620: l4
+    100622: l5
+    100624: l6
+    100626: l7
+    100628: l7s
+    100630: l8
+    100632: l8s
+    100634: la0
+    100636: la1
+    100638: la2
+    100640: la3
+    100642: la4
+    100644: la5
+    100646: la6
+    100648: lail0
+    100650: lail1
+    100652: lail2
+    100654: lail3
+    100656: left_palm
+    100658: lil0
+    100660: lil1
+    100662: lil2
+    100664: lil3
+    100666: lindexbase
+    100668: littlebase
+    100670: ll0
+    100672: ll1
+    100674: ll2
+    100676: ll3
+    100678: ll4
+    100680: ll5
+    100682: ll6
+    100684: llil0
+    100686: llil1
+    100688: llil2
+    100690: llil3
+    100692: llittlebase
+    100694: lmiddlebase
+    100696: lml0
+    100698: lml1
+    100700: lml2
+    100702: lml3
+    100704: lril0
+    100706: lril1
+    100708: lril2
+    100710: lril3
+    100712: lringbase
+    100714: lthumbbase
+    100716: ltl0
+    100718: ltl1
+    100720: ltl2
+    100722: ltl3
+    100724: ltl4
+    100726: middlebase
+    100728: ml0
+    100730: ml1
+    100732: ml2
+    100734: ml3
+    100736: ra0
+    100738: ra1
+    100740: ra2
+    100742: ra3
+    100744: ra4
+    100746: ra5
+    100748: ra6
+    100750: right_palm
+    100752: ril0
+    100754: ril1
+    100756: ril2
+    100758: ril3
+    100760: ringbase
+    100762: rl0
+    100764: rl1
+    100766: rl2
+    100768: rl3
+    100770: rl4
+    100772: rl5
+    100774: rl6
+    100776: thumbbase
+    100778: tl0
+    100780: tl1
+    100782: tl2
+    100784: tl3
+    100786: tl4
+    400000: dummyverg
+    400002: dummyvers
+    400004: g1_link0_geom1
+    400006: g1_link0_geom2
+    400008: g1_link0_geom3
+    400010: g1_link0_geom4
+    400012: g1_link0_geom5
+    400014: g1_link0_geom6
+    400016: g1_link0_geom7
+    400018: g1_link0_geom8
+    400020: g1_link0_geom9
+    400022: g1_link10_geom1
+    400024: g1_link14_geom1
+    400026: g1_link14_geom2
+    400028: g1_link14_geom3
+    400030: g1_link14_geom4
+    400032: g1_link15_geom1
+    400034: g1_link15_geom2
+    400036: g1_link15_geom3
+    400038: g1_link15_geom4
+    400040: g1_link15_geom5
+    400042: g1_link15_geom6
+    400044: g1_link15_geom7
+    400046: g1_link16_geom1
+    400048: g1_link16_geom2
+    400050: g1_link16_geom3
+    400052: g1_link16_geom4
+    400054: g1_link16_geom5
+    400056: g1_link16_geom6
+    400058: g1_link18_geom1
+    400060: g1_link18_geom2
+    400062: g1_link18_geom3
+    400064: g1_link18_geom4
+    400066: g1_link1_geom1
+    400068: g1_link20_geom1
+    400070: g1_link20_geom2
+    400072: g1_link20_geom3
+    400074: g1_link20_geom4
+    400076: g1_link20_geom5
+    400078: g1_link20_geom6
+    400080: g1_link23_geom1
+    400082: g1_link23_geom2
+    400084: g1_link24_geom1
+    400086: g1_link24_geom2
+    400088: g1_link24_geom3
+    400090: g1_link24_geom4
+    400092: g1_link24_geom5
+    400094: g1_link25_geom1
+    400096: g1_link25_geom2
+    400098: g1_link25_geom3
+    400100: g1_link25_geom4
+    400102: g1_link25_geom5
+    400104: g1_link26_geom1
+    400106: g1_link26_geom2
+    400108: g1_link26_geom3
+    400110: g1_link28_geom1
+    400112: g1_link28_geom2
+    400114: g1_link28_geom3
+    400116: g1_link28_geom4
+    400118: g1_link28_geom5
+    400120: g1_link29_geom1
+    400122: g1_link29_geom2
+    400124: g1_link29_geom3
+    400126: g1_link29_geom4
+    400128: g1_link29_geom5
+    400130: g1_link2_geom1
+    400132: g1_link2_geom2
+    400134: g1_link2_geom3
+    400136: g1_link2_geom4
+    400138: g1_link2_geom5
+    400140: g1_link30_geom1
+    400142: g1_link30_geom2
+    400144: g1_link30_geom3
+    400146: g1_link30_geom4
+    400148: g1_link30_geom5
+    400150: g1_link31_geom1
+    400152: g1_link31_geom2
+    400154: g1_link31_geom3
+    400156: g1_link33_geom1
+    400158: g1_link33_geom2
+    400160: g1_link33_geom3
+    400162: g1_link33_geom4
+    400164: g1_link33_geom5
+    400166: g1_link34_geom1
+    400168: g1_link34_geom2
+    400170: g1_link34_geom3
+    400172: g1_link34_geom4
+    400174: g1_link34_geom5
+    400176: g1_link35_geom1
+    400178: g1_link35_geom2
+    400180: g1_link35_geom3
+    400182: g1_link35_geom4
+    400184: g1_link35_geom5
+    400186: g1_link36_geom1
+    400188: g1_link36_geom2
+    400190: g1_link36_geom3
+    400192: g1_link38_geom1
+    400194: g1_link38_geom2
+    400196: g1_link38_geom3
+    400198: g1_link38_geom4
+    400200: g1_link38_geom5
+    400202: g1_link39_geom1
+    400204: g1_link39_geom2
+    400206: g1_link39_geom3
+    400208: g1_link39_geom4
+    400210: g1_link39_geom5
+    400212: g1_link3_geom1
+    400214: g1_link3_geom10
+    400216: g1_link3_geom11
+    400218: g1_link3_geom2
+    400220: g1_link3_geom3
+    400222: g1_link3_geom4
+    400224: g1_link3_geom5
+    400226: g1_link3_geom6
+    400228: g1_link3_geom7
+    400230: g1_link3_geom8
+    400232: g1_link3_geom9
+    400234: g1_link40_geom1
+    400236: g1_link40_geom2
+    400238: g1_link40_geom3
+    400240: g1_link40_geom4
+    400242: g1_link40_geom5
+    400244: g1_link41_geom1
+    400246: g1_link41_geom2
+    400248: g1_link41_geom3
+    400250: g1_link43_geom1
+    400252: g1_link43_geom2
+    400254: g1_link43_geom3
+    400256: g1_link43_geom4
+    400258: g1_link43_geom5
+    400260: g1_link44_geom1
+    400262: g1_link44_geom2
+    400264: g1_link44_geom3
+    400266: g1_link44_geom4
+    400268: g1_link44_geom5
+    400270: g1_link45_geom1
+    400272: g1_link45_geom2
+    400274: g1_link45_geom3
+    400276: g1_link45_geom4
+    400278: g1_link45_geom5
+    400280: g1_link46_geom1
+    400282: g1_link46_geom2
+    400284: g1_link46_geom3
+    400286: g1_link48_geom1
+    400288: g1_link48_geom2
+    400290: g1_link48_geom3
+    400292: g1_link48_geom4
+    400294: g1_link49_geom1
+    400296: g1_link49_geom2
+    400298: g1_link49_geom3
+    400300: g1_link49_geom4
+    400302: g1_link49_geom5
+    400304: g1_link49_geom6
+    400306: g1_link49_geom7
+    400308: g1_link4_geom1
+    400310: g1_link50_geom1
+    400312: g1_link50_geom2
+    400314: g1_link50_geom3
+    400316: g1_link50_geom4
+    400318: g1_link50_geom5
+    400320: g1_link50_geom6
+    400322: g1_link52_geom1
+    400324: g1_link52_geom2
+    400326: g1_link52_geom3
+    400328: g1_link52_geom4
+    400330: g1_link54_geom1
+    400332: g1_link54_geom2
+    400334: g1_link54_geom3
+    400336: g1_link54_geom4
+    400338: g1_link54_geom5
+    400340: g1_link54_geom6
+    400342: g1_link57_geom1
+    400344: g1_link57_geom2
+    400346: g1_link58_geom1
+    400348: g1_link58_geom2
+    400350: g1_link58_geom3
+    400352: g1_link58_geom4
+    400354: g1_link58_geom5
+    400356: g1_link59_geom1
+    400358: g1_link59_geom2
+    400360: g1_link59_geom3
+    400362: g1_link59_geom4
+    400364: g1_link59_geom5
+    400366: g1_link60_geom1
+    400368: g1_link60_geom2
+    400370: g1_link60_geom3
+    400372: g1_link62_geom1
+    400374: g1_link62_geom2
+    400376: g1_link62_geom3
+    400378: g1_link62_geom4
+    400380: g1_link62_geom5
+    400382: g1_link63_geom1
+    400384: g1_link63_geom2
+    400386: g1_link63_geom3
+    400388: g1_link63_geom4
+    400390: g1_link63_geom5
+    400392: g1_link64_geom1
+    400394: g1_link64_geom2
+    400396: g1_link64_geom3
+    400398: g1_link64_geom4
+    400400: g1_link64_geom5
+    400402: g1_link65_geom1
+    400404: g1_link65_geom2
+    400406: g1_link65_geom3
+    400408: g1_link67_geom1
+    400410: g1_link67_geom2
+    400412: g1_link67_geom3
+    400414: g1_link67_geom4
+    400416: g1_link67_geom5
+    400418: g1_link68_geom1
+    400420: g1_link68_geom2
+    400422: g1_link68_geom3
+    400424: g1_link68_geom4
+    400426: g1_link68_geom5
+    400428: g1_link69_geom1
+    400430: g1_link69_geom2
+    400432: g1_link69_geom3
+    400434: g1_link69_geom4
+    400436: g1_link69_geom5
+    400438: g1_link6_geom1
+    400440: g1_link70_geom1
+    400442: g1_link70_geom2
+    400444: g1_link70_geom3
+    400446: g1_link72_geom1
+    400448: g1_link72_geom2
+    400450: g1_link72_geom3
+    400452: g1_link72_geom4
+    400454: g1_link72_geom5
+    400456: g1_link73_geom1
+    400458: g1_link73_geom2
+    400460: g1_link73_geom3
+    400462: g1_link73_geom4
+    400464: g1_link73_geom5
+    400466: g1_link74_geom1
+    400468: g1_link74_geom2
+    400470: g1_link74_geom3
+    400472: g1_link74_geom4
+    400474: g1_link74_geom5
+    400476: g1_link75_geom1
+    400478: g1_link75_geom2
+    400480: g1_link75_geom3
+    400482: g1_link77_geom1
+    400484: g1_link77_geom2
+    400486: g1_link77_geom3
+    400488: g1_link77_geom4
+    400490: g1_link77_geom5
+    400492: g1_link78_geom1
+    400494: g1_link78_geom2
+    400496: g1_link78_geom3
+    400498: g1_link78_geom4
+    400500: g1_link78_geom5
+    400502: g1_link79_geom1
+    400504: g1_link79_geom2
+    400506: g1_link79_geom3
+    400508: g1_link79_geom4
+    400510: g1_link79_geom5
+    400512: g1_link80_geom1
+    400514: g1_link80_geom2
+    400516: g1_link80_geom3
+    400518: g1_link81_geom1
+    400520: g1_link81_geom2
+    400522: g1_link83_geom1
+    400524: g1_link83_geom2
+    400526: g1_link83_geom3
+    400528: g1_link83_geom4
+    400530: g1_link84_geom1
+    400532: g1_link84_geom2
+    400534: g1_link84_geom3
+    400536: g1_link84_geom4
+    400538: g1_link84_geom5
+    400540: g1_link85_geom1
+    400542: g1_link85_geom2
+    400544: g1_link85_geom3
+    400546: g1_link85_geom4
+    400548: g1_link85_geom5
+    400550: g1_link85_geom6
+    400552: g1_link85_geom7
+    400554: g1_link85_geom8
+    400556: g1_link86_geom1
+    400558: g1_link88_geom1
+    400560: g1_link88_geom2
+    400562: g1_link8_geom1
+    400564: g1_link90_geom1
+    400566: g1_link90_geom2
+    400568: g1_link90_geom3
+    400570: g1_link90_geom4
+    400572: g1_link91_geom1
+    400574: g1_link91_geom2
+    400576: g1_link91_geom3
+    400578: g1_link91_geom4
+    400580: g1_link91_geom5
+    400582: g1_link92_geom1
+    400584: g1_link92_geom2
+    400586: g1_link92_geom3
+    400588: g1_link92_geom4
+    400590: g1_link92_geom5
+    400592: g1_link92_geom6
+    400594: g1_link92_geom7
+    400596: g1_link92_geom8
+    400598: g1_link93_geom1
+    400600: //RootNode
+    400602: il0
+    400604: il1
+    400606: il2
+    400608: il3
+    400610: indexbase
+    400612: l0
+    400614: l1
+    400616: l2
+    400618: l3
+    400620: l4
+    400622: l5
+    400624: l6
+    400626: l7
+    400628: l7s
+    400630: l8
+    400632: l8s
+    400634: la0
+    400636: la1
+    400638: la2
+    400640: la3
+    400642: la4
+    400644: la5
+    400646: la6
+    400648: lail0
+    400650: lail1
+    400652: lail2
+    400654: lail3
+    400656: left_palm
+    400658: lil0
+    400660: lil1
+    400662: lil2
+    400664: lil3
+    400666: lindexbase
+    400668: littlebase
+    400670: ll0
+    400672: ll1
+    400674: ll2
+    400676: ll3
+    400678: ll4
+    400680: ll5
+    400682: ll6
+    400684: llil0
+    400686: llil1
+    400688: llil2
+    400690: llil3
+    400692: llittlebase
+    400694: lmiddlebase
+    400696: lml0
+    400698: lml1
+    400700: lml2
+    400702: lml3
+    400704: lril0
+    400706: lril1
+    400708: lril2
+    400710: lril3
+    400712: lringbase
+    400714: lthumbbase
+    400716: ltl0
+    400718: ltl1
+    400720: ltl2
+    400722: ltl3
+    400724: ltl4
+    400726: middlebase
+    400728: ml0
+    400730: ml1
+    400732: ml2
+    400734: ml3
+    400736: ra0
+    400738: ra1
+    400740: ra2
+    400742: ra3
+    400744: ra4
+    400746: ra5
+    400748: ra6
+    400750: right_palm
+    400752: ril0
+    400754: ril1
+    400756: ril2
+    400758: ril3
+    400760: ringbase
+    400762: rl0
+    400764: rl1
+    400766: rl2
+    400768: rl3
+    400770: rl4
+    400772: rl5
+    400774: rl6
+    400776: thumbbase
+    400778: tl0
+    400780: tl1
+    400782: tl2
+    400784: tl3
+    400786: tl4
+    2300000: dummyverg
+    2300002: dummyvers
+    2300004: g1_link0_geom1
+    2300006: g1_link0_geom2
+    2300008: g1_link0_geom3
+    2300010: g1_link0_geom4
+    2300012: g1_link0_geom5
+    2300014: g1_link0_geom6
+    2300016: g1_link0_geom7
+    2300018: g1_link0_geom8
+    2300020: g1_link0_geom9
+    2300022: g1_link10_geom1
+    2300024: g1_link14_geom1
+    2300026: g1_link14_geom2
+    2300028: g1_link14_geom3
+    2300030: g1_link14_geom4
+    2300032: g1_link15_geom1
+    2300034: g1_link15_geom2
+    2300036: g1_link15_geom3
+    2300038: g1_link15_geom4
+    2300040: g1_link15_geom5
+    2300042: g1_link15_geom6
+    2300044: g1_link15_geom7
+    2300046: g1_link16_geom1
+    2300048: g1_link16_geom2
+    2300050: g1_link16_geom3
+    2300052: g1_link16_geom4
+    2300054: g1_link16_geom5
+    2300056: g1_link16_geom6
+    2300058: g1_link18_geom1
+    2300060: g1_link18_geom2
+    2300062: g1_link18_geom3
+    2300064: g1_link18_geom4
+    2300066: g1_link1_geom1
+    2300068: g1_link20_geom1
+    2300070: g1_link20_geom2
+    2300072: g1_link20_geom3
+    2300074: g1_link20_geom4
+    2300076: g1_link20_geom5
+    2300078: g1_link20_geom6
+    2300080: g1_link23_geom1
+    2300082: g1_link23_geom2
+    2300084: g1_link24_geom1
+    2300086: g1_link24_geom2
+    2300088: g1_link24_geom3
+    2300090: g1_link24_geom4
+    2300092: g1_link24_geom5
+    2300094: g1_link25_geom1
+    2300096: g1_link25_geom2
+    2300098: g1_link25_geom3
+    2300100: g1_link25_geom4
+    2300102: g1_link25_geom5
+    2300104: g1_link26_geom1
+    2300106: g1_link26_geom2
+    2300108: g1_link26_geom3
+    2300110: g1_link28_geom1
+    2300112: g1_link28_geom2
+    2300114: g1_link28_geom3
+    2300116: g1_link28_geom4
+    2300118: g1_link28_geom5
+    2300120: g1_link29_geom1
+    2300122: g1_link29_geom2
+    2300124: g1_link29_geom3
+    2300126: g1_link29_geom4
+    2300128: g1_link29_geom5
+    2300130: g1_link2_geom1
+    2300132: g1_link2_geom2
+    2300134: g1_link2_geom3
+    2300136: g1_link2_geom4
+    2300138: g1_link2_geom5
+    2300140: g1_link30_geom1
+    2300142: g1_link30_geom2
+    2300144: g1_link30_geom3
+    2300146: g1_link30_geom4
+    2300148: g1_link30_geom5
+    2300150: g1_link31_geom1
+    2300152: g1_link31_geom2
+    2300154: g1_link31_geom3
+    2300156: g1_link33_geom1
+    2300158: g1_link33_geom2
+    2300160: g1_link33_geom3
+    2300162: g1_link33_geom4
+    2300164: g1_link33_geom5
+    2300166: g1_link34_geom1
+    2300168: g1_link34_geom2
+    2300170: g1_link34_geom3
+    2300172: g1_link34_geom4
+    2300174: g1_link34_geom5
+    2300176: g1_link35_geom1
+    2300178: g1_link35_geom2
+    2300180: g1_link35_geom3
+    2300182: g1_link35_geom4
+    2300184: g1_link35_geom5
+    2300186: g1_link36_geom1
+    2300188: g1_link36_geom2
+    2300190: g1_link36_geom3
+    2300192: g1_link38_geom1
+    2300194: g1_link38_geom2
+    2300196: g1_link38_geom3
+    2300198: g1_link38_geom4
+    2300200: g1_link38_geom5
+    2300202: g1_link39_geom1
+    2300204: g1_link39_geom2
+    2300206: g1_link39_geom3
+    2300208: g1_link39_geom4
+    2300210: g1_link39_geom5
+    2300212: g1_link3_geom1
+    2300214: g1_link3_geom10
+    2300216: g1_link3_geom11
+    2300218: g1_link3_geom2
+    2300220: g1_link3_geom3
+    2300222: g1_link3_geom4
+    2300224: g1_link3_geom5
+    2300226: g1_link3_geom6
+    2300228: g1_link3_geom7
+    2300230: g1_link3_geom8
+    2300232: g1_link3_geom9
+    2300234: g1_link40_geom1
+    2300236: g1_link40_geom2
+    2300238: g1_link40_geom3
+    2300240: g1_link40_geom4
+    2300242: g1_link40_geom5
+    2300244: g1_link41_geom1
+    2300246: g1_link41_geom2
+    2300248: g1_link41_geom3
+    2300250: g1_link43_geom1
+    2300252: g1_link43_geom2
+    2300254: g1_link43_geom3
+    2300256: g1_link43_geom4
+    2300258: g1_link43_geom5
+    2300260: g1_link44_geom1
+    2300262: g1_link44_geom2
+    2300264: g1_link44_geom3
+    2300266: g1_link44_geom4
+    2300268: g1_link44_geom5
+    2300270: g1_link45_geom1
+    2300272: g1_link45_geom2
+    2300274: g1_link45_geom3
+    2300276: g1_link45_geom4
+    2300278: g1_link45_geom5
+    2300280: g1_link46_geom1
+    2300282: g1_link46_geom2
+    2300284: g1_link46_geom3
+    2300286: g1_link48_geom1
+    2300288: g1_link48_geom2
+    2300290: g1_link48_geom3
+    2300292: g1_link48_geom4
+    2300294: g1_link49_geom1
+    2300296: g1_link49_geom2
+    2300298: g1_link49_geom3
+    2300300: g1_link49_geom4
+    2300302: g1_link49_geom5
+    2300304: g1_link49_geom6
+    2300306: g1_link49_geom7
+    2300308: g1_link4_geom1
+    2300310: g1_link50_geom1
+    2300312: g1_link50_geom2
+    2300314: g1_link50_geom3
+    2300316: g1_link50_geom4
+    2300318: g1_link50_geom5
+    2300320: g1_link50_geom6
+    2300322: g1_link52_geom1
+    2300324: g1_link52_geom2
+    2300326: g1_link52_geom3
+    2300328: g1_link52_geom4
+    2300330: g1_link54_geom1
+    2300332: g1_link54_geom2
+    2300334: g1_link54_geom3
+    2300336: g1_link54_geom4
+    2300338: g1_link54_geom5
+    2300340: g1_link54_geom6
+    2300342: g1_link57_geom1
+    2300344: g1_link57_geom2
+    2300346: g1_link58_geom1
+    2300348: g1_link58_geom2
+    2300350: g1_link58_geom3
+    2300352: g1_link58_geom4
+    2300354: g1_link58_geom5
+    2300356: g1_link59_geom1
+    2300358: g1_link59_geom2
+    2300360: g1_link59_geom3
+    2300362: g1_link59_geom4
+    2300364: g1_link59_geom5
+    2300366: g1_link60_geom1
+    2300368: g1_link60_geom2
+    2300370: g1_link60_geom3
+    2300372: g1_link62_geom1
+    2300374: g1_link62_geom2
+    2300376: g1_link62_geom3
+    2300378: g1_link62_geom4
+    2300380: g1_link62_geom5
+    2300382: g1_link63_geom1
+    2300384: g1_link63_geom2
+    2300386: g1_link63_geom3
+    2300388: g1_link63_geom4
+    2300390: g1_link63_geom5
+    2300392: g1_link64_geom1
+    2300394: g1_link64_geom2
+    2300396: g1_link64_geom3
+    2300398: g1_link64_geom4
+    2300400: g1_link64_geom5
+    2300402: g1_link65_geom1
+    2300404: g1_link65_geom2
+    2300406: g1_link65_geom3
+    2300408: g1_link67_geom1
+    2300410: g1_link67_geom2
+    2300412: g1_link67_geom3
+    2300414: g1_link67_geom4
+    2300416: g1_link67_geom5
+    2300418: g1_link68_geom1
+    2300420: g1_link68_geom2
+    2300422: g1_link68_geom3
+    2300424: g1_link68_geom4
+    2300426: g1_link68_geom5
+    2300428: g1_link69_geom1
+    2300430: g1_link69_geom2
+    2300432: g1_link69_geom3
+    2300434: g1_link69_geom4
+    2300436: g1_link69_geom5
+    2300438: g1_link6_geom1
+    2300440: g1_link70_geom1
+    2300442: g1_link70_geom2
+    2300444: g1_link70_geom3
+    2300446: g1_link72_geom1
+    2300448: g1_link72_geom2
+    2300450: g1_link72_geom3
+    2300452: g1_link72_geom4
+    2300454: g1_link72_geom5
+    2300456: g1_link73_geom1
+    2300458: g1_link73_geom2
+    2300460: g1_link73_geom3
+    2300462: g1_link73_geom4
+    2300464: g1_link73_geom5
+    2300466: g1_link74_geom1
+    2300468: g1_link74_geom2
+    2300470: g1_link74_geom3
+    2300472: g1_link74_geom4
+    2300474: g1_link74_geom5
+    2300476: g1_link75_geom1
+    2300478: g1_link75_geom2
+    2300480: g1_link75_geom3
+    2300482: g1_link77_geom1
+    2300484: g1_link77_geom2
+    2300486: g1_link77_geom3
+    2300488: g1_link77_geom4
+    2300490: g1_link77_geom5
+    2300492: g1_link78_geom1
+    2300494: g1_link78_geom2
+    2300496: g1_link78_geom3
+    2300498: g1_link78_geom4
+    2300500: g1_link78_geom5
+    2300502: g1_link79_geom1
+    2300504: g1_link79_geom2
+    2300506: g1_link79_geom3
+    2300508: g1_link79_geom4
+    2300510: g1_link79_geom5
+    2300512: g1_link80_geom1
+    2300514: g1_link80_geom2
+    2300516: g1_link80_geom3
+    2300518: g1_link81_geom1
+    2300520: g1_link81_geom2
+    2300522: g1_link83_geom1
+    2300524: g1_link83_geom2
+    2300526: g1_link83_geom3
+    2300528: g1_link83_geom4
+    2300530: g1_link84_geom1
+    2300532: g1_link84_geom2
+    2300534: g1_link84_geom3
+    2300536: g1_link84_geom4
+    2300538: g1_link84_geom5
+    2300540: g1_link85_geom1
+    2300542: g1_link85_geom2
+    2300544: g1_link85_geom3
+    2300546: g1_link85_geom4
+    2300548: g1_link85_geom5
+    2300550: g1_link85_geom6
+    2300552: g1_link85_geom7
+    2300554: g1_link85_geom8
+    2300556: g1_link86_geom1
+    2300558: g1_link88_geom1
+    2300560: g1_link88_geom2
+    2300562: g1_link8_geom1
+    2300564: g1_link90_geom1
+    2300566: g1_link90_geom2
+    2300568: g1_link90_geom3
+    2300570: g1_link90_geom4
+    2300572: g1_link91_geom1
+    2300574: g1_link91_geom2
+    2300576: g1_link91_geom3
+    2300578: g1_link91_geom4
+    2300580: g1_link91_geom5
+    2300582: g1_link92_geom1
+    2300584: g1_link92_geom2
+    2300586: g1_link92_geom3
+    2300588: g1_link92_geom4
+    2300590: g1_link92_geom5
+    2300592: g1_link92_geom6
+    2300594: g1_link92_geom7
+    2300596: g1_link92_geom8
+    2300598: g1_link93_geom1
+    2300600: il0
+    2300602: il1
+    2300604: il2
+    2300606: il3
+    2300608: indexbase
+    2300610: l0
+    2300612: l1
+    2300614: l2
+    2300616: l3
+    2300618: l4
+    2300620: l5
+    2300622: l6
+    2300624: l7
+    2300626: l7s
+    2300628: l8
+    2300630: l8s
+    2300632: la0
+    2300634: la1
+    2300636: la2
+    2300638: la3
+    2300640: la4
+    2300642: la5
+    2300644: la6
+    2300646: lail0
+    2300648: lail1
+    2300650: lail2
+    2300652: lail3
+    2300654: left_palm
+    2300656: lil0
+    2300658: lil1
+    2300660: lil2
+    2300662: lil3
+    2300664: lindexbase
+    2300666: littlebase
+    2300668: ll0
+    2300670: ll1
+    2300672: ll2
+    2300674: ll3
+    2300676: ll4
+    2300678: ll5
+    2300680: ll6
+    2300682: llil0
+    2300684: llil1
+    2300686: llil2
+    2300688: llil3
+    2300690: llittlebase
+    2300692: lmiddlebase
+    2300694: lml0
+    2300696: lml1
+    2300698: lml2
+    2300700: lml3
+    2300702: lril0
+    2300704: lril1
+    2300706: lril2
+    2300708: lril3
+    2300710: lringbase
+    2300712: lthumbbase
+    2300714: ltl0
+    2300716: ltl1
+    2300718: ltl2
+    2300720: ltl3
+    2300722: ltl4
+    2300724: middlebase
+    2300726: ml0
+    2300728: ml1
+    2300730: ml2
+    2300732: ml3
+    2300734: ra0
+    2300736: ra1
+    2300738: ra2
+    2300740: ra3
+    2300742: ra4
+    2300744: ra5
+    2300746: ra6
+    2300748: right_palm
+    2300750: ril0
+    2300752: ril1
+    2300754: ril2
+    2300756: ril3
+    2300758: ringbase
+    2300760: rl0
+    2300762: rl1
+    2300764: rl2
+    2300766: rl3
+    2300768: rl4
+    2300770: rl5
+    2300772: rl6
+    2300774: thumbbase
+    2300776: tl0
+    2300778: tl1
+    2300780: tl2
+    2300782: tl3
+    2300784: tl4
+    3300000: dummyverg
+    3300002: dummyvers
+    3300004: g1_link0_geom1
+    3300006: g1_link0_geom2
+    3300008: g1_link0_geom3
+    3300010: g1_link0_geom4
+    3300012: g1_link0_geom5
+    3300014: g1_link0_geom6
+    3300016: g1_link0_geom7
+    3300018: g1_link0_geom8
+    3300020: g1_link0_geom9
+    3300022: g1_link10_geom1
+    3300024: g1_link14_geom1
+    3300026: g1_link14_geom2
+    3300028: g1_link14_geom3
+    3300030: g1_link14_geom4
+    3300032: g1_link15_geom1
+    3300034: g1_link15_geom2
+    3300036: g1_link15_geom3
+    3300038: g1_link15_geom4
+    3300040: g1_link15_geom5
+    3300042: g1_link15_geom6
+    3300044: g1_link15_geom7
+    3300046: g1_link16_geom1
+    3300048: g1_link16_geom2
+    3300050: g1_link16_geom3
+    3300052: g1_link16_geom4
+    3300054: g1_link16_geom5
+    3300056: g1_link16_geom6
+    3300058: g1_link18_geom1
+    3300060: g1_link18_geom2
+    3300062: g1_link18_geom3
+    3300064: g1_link18_geom4
+    3300066: g1_link1_geom1
+    3300068: g1_link20_geom1
+    3300070: g1_link20_geom2
+    3300072: g1_link20_geom3
+    3300074: g1_link20_geom4
+    3300076: g1_link20_geom5
+    3300078: g1_link20_geom6
+    3300080: g1_link23_geom1
+    3300082: g1_link23_geom2
+    3300084: g1_link24_geom1
+    3300086: g1_link24_geom2
+    3300088: g1_link24_geom3
+    3300090: g1_link24_geom4
+    3300092: g1_link24_geom5
+    3300094: g1_link25_geom1
+    3300096: g1_link25_geom2
+    3300098: g1_link25_geom3
+    3300100: g1_link25_geom4
+    3300102: g1_link25_geom5
+    3300104: g1_link26_geom1
+    3300106: g1_link26_geom2
+    3300108: g1_link26_geom3
+    3300110: g1_link28_geom1
+    3300112: g1_link28_geom2
+    3300114: g1_link28_geom3
+    3300116: g1_link28_geom4
+    3300118: g1_link28_geom5
+    3300120: g1_link29_geom1
+    3300122: g1_link29_geom2
+    3300124: g1_link29_geom3
+    3300126: g1_link29_geom4
+    3300128: g1_link29_geom5
+    3300130: g1_link2_geom1
+    3300132: g1_link2_geom2
+    3300134: g1_link2_geom3
+    3300136: g1_link2_geom4
+    3300138: g1_link2_geom5
+    3300140: g1_link30_geom1
+    3300142: g1_link30_geom2
+    3300144: g1_link30_geom3
+    3300146: g1_link30_geom4
+    3300148: g1_link30_geom5
+    3300150: g1_link31_geom1
+    3300152: g1_link31_geom2
+    3300154: g1_link31_geom3
+    3300156: g1_link33_geom1
+    3300158: g1_link33_geom2
+    3300160: g1_link33_geom3
+    3300162: g1_link33_geom4
+    3300164: g1_link33_geom5
+    3300166: g1_link34_geom1
+    3300168: g1_link34_geom2
+    3300170: g1_link34_geom3
+    3300172: g1_link34_geom4
+    3300174: g1_link34_geom5
+    3300176: g1_link35_geom1
+    3300178: g1_link35_geom2
+    3300180: g1_link35_geom3
+    3300182: g1_link35_geom4
+    3300184: g1_link35_geom5
+    3300186: g1_link36_geom1
+    3300188: g1_link36_geom2
+    3300190: g1_link36_geom3
+    3300192: g1_link38_geom1
+    3300194: g1_link38_geom2
+    3300196: g1_link38_geom3
+    3300198: g1_link38_geom4
+    3300200: g1_link38_geom5
+    3300202: g1_link39_geom1
+    3300204: g1_link39_geom2
+    3300206: g1_link39_geom3
+    3300208: g1_link39_geom4
+    3300210: g1_link39_geom5
+    3300212: g1_link3_geom1
+    3300214: g1_link3_geom10
+    3300216: g1_link3_geom11
+    3300218: g1_link3_geom2
+    3300220: g1_link3_geom3
+    3300222: g1_link3_geom4
+    3300224: g1_link3_geom5
+    3300226: g1_link3_geom6
+    3300228: g1_link3_geom7
+    3300230: g1_link3_geom8
+    3300232: g1_link3_geom9
+    3300234: g1_link40_geom1
+    3300236: g1_link40_geom2
+    3300238: g1_link40_geom3
+    3300240: g1_link40_geom4
+    3300242: g1_link40_geom5
+    3300244: g1_link41_geom1
+    3300246: g1_link41_geom2
+    3300248: g1_link41_geom3
+    3300250: g1_link43_geom1
+    3300252: g1_link43_geom2
+    3300254: g1_link43_geom3
+    3300256: g1_link43_geom4
+    3300258: g1_link43_geom5
+    3300260: g1_link44_geom1
+    3300262: g1_link44_geom2
+    3300264: g1_link44_geom3
+    3300266: g1_link44_geom4
+    3300268: g1_link44_geom5
+    3300270: g1_link45_geom1
+    3300272: g1_link45_geom2
+    3300274: g1_link45_geom3
+    3300276: g1_link45_geom4
+    3300278: g1_link45_geom5
+    3300280: g1_link46_geom1
+    3300282: g1_link46_geom2
+    3300284: g1_link46_geom3
+    3300286: g1_link48_geom1
+    3300288: g1_link48_geom2
+    3300290: g1_link48_geom3
+    3300292: g1_link48_geom4
+    3300294: g1_link49_geom1
+    3300296: g1_link49_geom2
+    3300298: g1_link49_geom3
+    3300300: g1_link49_geom4
+    3300302: g1_link49_geom5
+    3300304: g1_link49_geom6
+    3300306: g1_link49_geom7
+    3300308: g1_link4_geom1
+    3300310: g1_link50_geom1
+    3300312: g1_link50_geom2
+    3300314: g1_link50_geom3
+    3300316: g1_link50_geom4
+    3300318: g1_link50_geom5
+    3300320: g1_link50_geom6
+    3300322: g1_link52_geom1
+    3300324: g1_link52_geom2
+    3300326: g1_link52_geom3
+    3300328: g1_link52_geom4
+    3300330: g1_link54_geom1
+    3300332: g1_link54_geom2
+    3300334: g1_link54_geom3
+    3300336: g1_link54_geom4
+    3300338: g1_link54_geom5
+    3300340: g1_link54_geom6
+    3300342: g1_link57_geom1
+    3300344: g1_link57_geom2
+    3300346: g1_link58_geom1
+    3300348: g1_link58_geom2
+    3300350: g1_link58_geom3
+    3300352: g1_link58_geom4
+    3300354: g1_link58_geom5
+    3300356: g1_link59_geom1
+    3300358: g1_link59_geom2
+    3300360: g1_link59_geom3
+    3300362: g1_link59_geom4
+    3300364: g1_link59_geom5
+    3300366: g1_link60_geom1
+    3300368: g1_link60_geom2
+    3300370: g1_link60_geom3
+    3300372: g1_link62_geom1
+    3300374: g1_link62_geom2
+    3300376: g1_link62_geom3
+    3300378: g1_link62_geom4
+    3300380: g1_link62_geom5
+    3300382: g1_link63_geom1
+    3300384: g1_link63_geom2
+    3300386: g1_link63_geom3
+    3300388: g1_link63_geom4
+    3300390: g1_link63_geom5
+    3300392: g1_link64_geom1
+    3300394: g1_link64_geom2
+    3300396: g1_link64_geom3
+    3300398: g1_link64_geom4
+    3300400: g1_link64_geom5
+    3300402: g1_link65_geom1
+    3300404: g1_link65_geom2
+    3300406: g1_link65_geom3
+    3300408: g1_link67_geom1
+    3300410: g1_link67_geom2
+    3300412: g1_link67_geom3
+    3300414: g1_link67_geom4
+    3300416: g1_link67_geom5
+    3300418: g1_link68_geom1
+    3300420: g1_link68_geom2
+    3300422: g1_link68_geom3
+    3300424: g1_link68_geom4
+    3300426: g1_link68_geom5
+    3300428: g1_link69_geom1
+    3300430: g1_link69_geom2
+    3300432: g1_link69_geom3
+    3300434: g1_link69_geom4
+    3300436: g1_link69_geom5
+    3300438: g1_link6_geom1
+    3300440: g1_link70_geom1
+    3300442: g1_link70_geom2
+    3300444: g1_link70_geom3
+    3300446: g1_link72_geom1
+    3300448: g1_link72_geom2
+    3300450: g1_link72_geom3
+    3300452: g1_link72_geom4
+    3300454: g1_link72_geom5
+    3300456: g1_link73_geom1
+    3300458: g1_link73_geom2
+    3300460: g1_link73_geom3
+    3300462: g1_link73_geom4
+    3300464: g1_link73_geom5
+    3300466: g1_link74_geom1
+    3300468: g1_link74_geom2
+    3300470: g1_link74_geom3
+    3300472: g1_link74_geom4
+    3300474: g1_link74_geom5
+    3300476: g1_link75_geom1
+    3300478: g1_link75_geom2
+    3300480: g1_link75_geom3
+    3300482: g1_link77_geom1
+    3300484: g1_link77_geom2
+    3300486: g1_link77_geom3
+    3300488: g1_link77_geom4
+    3300490: g1_link77_geom5
+    3300492: g1_link78_geom1
+    3300494: g1_link78_geom2
+    3300496: g1_link78_geom3
+    3300498: g1_link78_geom4
+    3300500: g1_link78_geom5
+    3300502: g1_link79_geom1
+    3300504: g1_link79_geom2
+    3300506: g1_link79_geom3
+    3300508: g1_link79_geom4
+    3300510: g1_link79_geom5
+    3300512: g1_link80_geom1
+    3300514: g1_link80_geom2
+    3300516: g1_link80_geom3
+    3300518: g1_link81_geom1
+    3300520: g1_link81_geom2
+    3300522: g1_link83_geom1
+    3300524: g1_link83_geom2
+    3300526: g1_link83_geom3
+    3300528: g1_link83_geom4
+    3300530: g1_link84_geom1
+    3300532: g1_link84_geom2
+    3300534: g1_link84_geom3
+    3300536: g1_link84_geom4
+    3300538: g1_link84_geom5
+    3300540: g1_link85_geom1
+    3300542: g1_link85_geom2
+    3300544: g1_link85_geom3
+    3300546: g1_link85_geom4
+    3300548: g1_link85_geom5
+    3300550: g1_link85_geom6
+    3300552: g1_link85_geom7
+    3300554: g1_link85_geom8
+    3300556: g1_link86_geom1
+    3300558: g1_link88_geom1
+    3300560: g1_link88_geom2
+    3300562: g1_link8_geom1
+    3300564: g1_link90_geom1
+    3300566: g1_link90_geom2
+    3300568: g1_link90_geom3
+    3300570: g1_link90_geom4
+    3300572: g1_link91_geom1
+    3300574: g1_link91_geom2
+    3300576: g1_link91_geom3
+    3300578: g1_link91_geom4
+    3300580: g1_link91_geom5
+    3300582: g1_link92_geom1
+    3300584: g1_link92_geom2
+    3300586: g1_link92_geom3
+    3300588: g1_link92_geom4
+    3300590: g1_link92_geom5
+    3300592: g1_link92_geom6
+    3300594: g1_link92_geom7
+    3300596: g1_link92_geom8
+    3300598: g1_link93_geom1
+    3300600: il0
+    3300602: il1
+    3300604: il2
+    3300606: il3
+    3300608: indexbase
+    3300610: l0
+    3300612: l1
+    3300614: l2
+    3300616: l3
+    3300618: l4
+    3300620: l5
+    3300622: l6
+    3300624: l7
+    3300626: l7s
+    3300628: l8
+    3300630: l8s
+    3300632: la0
+    3300634: la1
+    3300636: la2
+    3300638: la3
+    3300640: la4
+    3300642: la5
+    3300644: la6
+    3300646: lail0
+    3300648: lail1
+    3300650: lail2
+    3300652: lail3
+    3300654: left_palm
+    3300656: lil0
+    3300658: lil1
+    3300660: lil2
+    3300662: lil3
+    3300664: lindexbase
+    3300666: littlebase
+    3300668: ll0
+    3300670: ll1
+    3300672: ll2
+    3300674: ll3
+    3300676: ll4
+    3300678: ll5
+    3300680: ll6
+    3300682: llil0
+    3300684: llil1
+    3300686: llil2
+    3300688: llil3
+    3300690: llittlebase
+    3300692: lmiddlebase
+    3300694: lml0
+    3300696: lml1
+    3300698: lml2
+    3300700: lml3
+    3300702: lril0
+    3300704: lril1
+    3300706: lril2
+    3300708: lril3
+    3300710: lringbase
+    3300712: lthumbbase
+    3300714: ltl0
+    3300716: ltl1
+    3300718: ltl2
+    3300720: ltl3
+    3300722: ltl4
+    3300724: middlebase
+    3300726: ml0
+    3300728: ml1
+    3300730: ml2
+    3300732: ml3
+    3300734: ra0
+    3300736: ra1
+    3300738: ra2
+    3300740: ra3
+    3300742: ra4
+    3300744: ra5
+    3300746: ra6
+    3300748: right_palm
+    3300750: ril0
+    3300752: ril1
+    3300754: ril2
+    3300756: ril3
+    3300758: ringbase
+    3300760: rl0
+    3300762: rl1
+    3300764: rl2
+    3300766: rl3
+    3300768: rl4
+    3300770: rl5
+    3300772: rl6
+    3300774: thumbbase
+    3300776: tl0
+    3300778: tl1
+    3300780: tl2
+    3300782: tl3
+    3300784: tl4
+    4300000: l0
+    4300002: g1_link0_geom1
+    4300004: g1_link0_geom2
+    4300006: g1_link0_geom3
+    4300008: g1_link0_geom4
+    4300010: g1_link0_geom5
+    4300012: g1_link0_geom6
+    4300014: g1_link0_geom7
+    4300016: g1_link0_geom8
+    4300018: g1_link0_geom9
+    4300020: l1
+    4300022: g1_link1_geom1
+    4300024: l2
+    4300026: g1_link2_geom1
+    4300028: g1_link2_geom2
+    4300030: g1_link2_geom3
+    4300032: g1_link2_geom4
+    4300034: g1_link2_geom5
+    4300036: l3
+    4300038: g1_link3_geom1
+    4300040: g1_link3_geom2
+    4300042: g1_link3_geom3
+    4300044: g1_link3_geom4
+    4300046: g1_link3_geom5
+    4300048: g1_link3_geom6
+    4300050: g1_link3_geom7
+    4300052: g1_link3_geom8
+    4300054: g1_link3_geom9
+    4300056: g1_link3_geom10
+    4300058: g1_link3_geom11
+    4300060: l4
+    4300062: g1_link4_geom1
+    4300064: l5
+    4300066: l6
+    4300068: g1_link6_geom1
+    4300070: l7
+    4300072: dummyverg
+    4300074: l8
+    4300076: g1_link8_geom1
+    4300078: l7s
+    4300080: dummyvers
+    4300082: l8s
+    4300084: g1_link10_geom1
+    4300086: ra0
+    4300088: ra1
+    4300090: g1_link14_geom1
+    4300092: g1_link14_geom2
+    4300094: g1_link14_geom3
+    4300096: g1_link14_geom4
+    4300098: ra2
+    4300100: g1_link15_geom1
+    4300102: g1_link15_geom2
+    4300104: g1_link15_geom3
+    4300106: g1_link15_geom4
+    4300108: g1_link15_geom5
+    4300110: g1_link15_geom6
+    4300112: g1_link15_geom7
+    4300114: ra3
+    4300116: g1_link16_geom1
+    4300118: g1_link16_geom2
+    4300120: g1_link16_geom3
+    4300122: g1_link16_geom4
+    4300124: g1_link16_geom5
+    4300126: g1_link16_geom6
+    4300128: ra4
+    4300130: ra5
+    4300132: g1_link18_geom1
+    4300134: g1_link18_geom2
+    4300136: g1_link18_geom3
+    4300138: g1_link18_geom4
+    4300140: ra6
+    4300142: right_palm
+    4300144: g1_link20_geom1
+    4300146: g1_link20_geom2
+    4300148: g1_link20_geom3
+    4300150: g1_link20_geom4
+    4300152: g1_link20_geom5
+    4300154: g1_link20_geom6
+    4300156: thumbbase
+    4300158: tl0
+    4300160: tl1
+    4300162: g1_link23_geom1
+    4300164: g1_link23_geom2
+    4300166: tl2
+    4300168: g1_link24_geom1
+    4300170: g1_link24_geom2
+    4300172: g1_link24_geom3
+    4300174: g1_link24_geom4
+    4300176: g1_link24_geom5
+    4300178: tl3
+    4300180: g1_link25_geom1
+    4300182: g1_link25_geom2
+    4300184: g1_link25_geom3
+    4300186: g1_link25_geom4
+    4300188: g1_link25_geom5
+    4300190: tl4
+    4300192: g1_link26_geom1
+    4300194: g1_link26_geom2
+    4300196: g1_link26_geom3
+    4300198: indexbase
+    4300200: il0
+    4300202: g1_link28_geom1
+    4300204: g1_link28_geom2
+    4300206: g1_link28_geom3
+    4300208: g1_link28_geom4
+    4300210: g1_link28_geom5
+    4300212: il1
+    4300214: g1_link29_geom1
+    4300216: g1_link29_geom2
+    4300218: g1_link29_geom3
+    4300220: g1_link29_geom4
+    4300222: g1_link29_geom5
+    4300224: il2
+    4300226: g1_link30_geom1
+    4300228: g1_link30_geom2
+    4300230: g1_link30_geom3
+    4300232: g1_link30_geom4
+    4300234: g1_link30_geom5
+    4300236: il3
+    4300238: g1_link31_geom1
+    4300240: g1_link31_geom2
+    4300242: g1_link31_geom3
+    4300244: middlebase
+    4300246: ml0
+    4300248: g1_link33_geom1
+    4300250: g1_link33_geom2
+    4300252: g1_link33_geom3
+    4300254: g1_link33_geom4
+    4300256: g1_link33_geom5
+    4300258: ml1
+    4300260: g1_link34_geom1
+    4300262: g1_link34_geom2
+    4300264: g1_link34_geom3
+    4300266: g1_link34_geom4
+    4300268: g1_link34_geom5
+    4300270: ml2
+    4300272: g1_link35_geom1
+    4300274: g1_link35_geom2
+    4300276: g1_link35_geom3
+    4300278: g1_link35_geom4
+    4300280: g1_link35_geom5
+    4300282: ml3
+    4300284: g1_link36_geom1
+    4300286: g1_link36_geom2
+    4300288: g1_link36_geom3
+    4300290: ringbase
+    4300292: ril0
+    4300294: g1_link38_geom1
+    4300296: g1_link38_geom2
+    4300298: g1_link38_geom3
+    4300300: g1_link38_geom4
+    4300302: g1_link38_geom5
+    4300304: ril1
+    4300306: g1_link39_geom1
+    4300308: g1_link39_geom2
+    4300310: g1_link39_geom3
+    4300312: g1_link39_geom4
+    4300314: g1_link39_geom5
+    4300316: ril2
+    4300318: g1_link40_geom1
+    4300320: g1_link40_geom2
+    4300322: g1_link40_geom3
+    4300324: g1_link40_geom4
+    4300326: g1_link40_geom5
+    4300328: ril3
+    4300330: g1_link41_geom1
+    4300332: g1_link41_geom2
+    4300334: g1_link41_geom3
+    4300336: littlebase
+    4300338: lil0
+    4300340: g1_link43_geom1
+    4300342: g1_link43_geom2
+    4300344: g1_link43_geom3
+    4300346: g1_link43_geom4
+    4300348: g1_link43_geom5
+    4300350: lil1
+    4300352: g1_link44_geom1
+    4300354: g1_link44_geom2
+    4300356: g1_link44_geom3
+    4300358: g1_link44_geom4
+    4300360: g1_link44_geom5
+    4300362: lil2
+    4300364: g1_link45_geom1
+    4300366: g1_link45_geom2
+    4300368: g1_link45_geom3
+    4300370: g1_link45_geom4
+    4300372: g1_link45_geom5
+    4300374: lil3
+    4300376: g1_link46_geom1
+    4300378: g1_link46_geom2
+    4300380: g1_link46_geom3
+    4300382: la0
+    4300384: la1
+    4300386: g1_link48_geom1
+    4300388: g1_link48_geom2
+    4300390: g1_link48_geom3
+    4300392: g1_link48_geom4
+    4300394: la2
+    4300396: g1_link49_geom1
+    4300398: g1_link49_geom2
+    4300400: g1_link49_geom3
+    4300402: g1_link49_geom4
+    4300404: g1_link49_geom5
+    4300406: g1_link49_geom6
+    4300408: g1_link49_geom7
+    4300410: la3
+    4300412: g1_link50_geom1
+    4300414: g1_link50_geom2
+    4300416: g1_link50_geom3
+    4300418: g1_link50_geom4
+    4300420: g1_link50_geom5
+    4300422: g1_link50_geom6
+    4300424: la4
+    4300426: la5
+    4300428: g1_link52_geom1
+    4300430: g1_link52_geom2
+    4300432: g1_link52_geom3
+    4300434: g1_link52_geom4
+    4300436: la6
+    4300438: left_palm
+    4300440: g1_link54_geom1
+    4300442: g1_link54_geom2
+    4300444: g1_link54_geom3
+    4300446: g1_link54_geom4
+    4300448: g1_link54_geom5
+    4300450: g1_link54_geom6
+    4300452: lthumbbase
+    4300454: ltl0
+    4300456: ltl1
+    4300458: g1_link57_geom1
+    4300460: g1_link57_geom2
+    4300462: ltl2
+    4300464: g1_link58_geom1
+    4300466: g1_link58_geom2
+    4300468: g1_link58_geom3
+    4300470: g1_link58_geom4
+    4300472: g1_link58_geom5
+    4300474: ltl3
+    4300476: g1_link59_geom1
+    4300478: g1_link59_geom2
+    4300480: g1_link59_geom3
+    4300482: g1_link59_geom4
+    4300484: g1_link59_geom5
+    4300486: ltl4
+    4300488: g1_link60_geom1
+    4300490: g1_link60_geom2
+    4300492: g1_link60_geom3
+    4300494: lindexbase
+    4300496: lail0
+    4300498: g1_link62_geom1
+    4300500: g1_link62_geom2
+    4300502: g1_link62_geom3
+    4300504: g1_link62_geom4
+    4300506: g1_link62_geom5
+    4300508: lail1
+    4300510: g1_link63_geom1
+    4300512: g1_link63_geom2
+    4300514: g1_link63_geom3
+    4300516: g1_link63_geom4
+    4300518: g1_link63_geom5
+    4300520: lail2
+    4300522: g1_link64_geom1
+    4300524: g1_link64_geom2
+    4300526: g1_link64_geom3
+    4300528: g1_link64_geom4
+    4300530: g1_link64_geom5
+    4300532: lail3
+    4300534: g1_link65_geom1
+    4300536: g1_link65_geom2
+    4300538: g1_link65_geom3
+    4300540: lmiddlebase
+    4300542: lml0
+    4300544: g1_link67_geom1
+    4300546: g1_link67_geom2
+    4300548: g1_link67_geom3
+    4300550: g1_link67_geom4
+    4300552: g1_link67_geom5
+    4300554: lml1
+    4300556: g1_link68_geom1
+    4300558: g1_link68_geom2
+    4300560: g1_link68_geom3
+    4300562: g1_link68_geom4
+    4300564: g1_link68_geom5
+    4300566: lml2
+    4300568: g1_link69_geom1
+    4300570: g1_link69_geom2
+    4300572: g1_link69_geom3
+    4300574: g1_link69_geom4
+    4300576: g1_link69_geom5
+    4300578: lml3
+    4300580: g1_link70_geom1
+    4300582: g1_link70_geom2
+    4300584: g1_link70_geom3
+    4300586: lringbase
+    4300588: lril0
+    4300590: g1_link72_geom1
+    4300592: g1_link72_geom2
+    4300594: g1_link72_geom3
+    4300596: g1_link72_geom4
+    4300598: g1_link72_geom5
+    4300600: lril1
+    4300602: g1_link73_geom1
+    4300604: g1_link73_geom2
+    4300606: g1_link73_geom3
+    4300608: g1_link73_geom4
+    4300610: g1_link73_geom5
+    4300612: lril2
+    4300614: g1_link74_geom1
+    4300616: g1_link74_geom2
+    4300618: g1_link74_geom3
+    4300620: g1_link74_geom4
+    4300622: g1_link74_geom5
+    4300624: lril3
+    4300626: g1_link75_geom1
+    4300628: g1_link75_geom2
+    4300630: g1_link75_geom3
+    4300632: llittlebase
+    4300634: llil0
+    4300636: g1_link77_geom1
+    4300638: g1_link77_geom2
+    4300640: g1_link77_geom3
+    4300642: g1_link77_geom4
+    4300644: g1_link77_geom5
+    4300646: llil1
+    4300648: g1_link78_geom1
+    4300650: g1_link78_geom2
+    4300652: g1_link78_geom3
+    4300654: g1_link78_geom4
+    4300656: g1_link78_geom5
+    4300658: llil2
+    4300660: g1_link79_geom1
+    4300662: g1_link79_geom2
+    4300664: g1_link79_geom3
+    4300666: g1_link79_geom4
+    4300668: g1_link79_geom5
+    4300670: llil3
+    4300672: g1_link80_geom1
+    4300674: g1_link80_geom2
+    4300676: g1_link80_geom3
+    4300678: rl0
+    4300680: g1_link81_geom1
+    4300682: g1_link81_geom2
+    4300684: rl1
+    4300686: rl2
+    4300688: g1_link83_geom1
+    4300690: g1_link83_geom2
+    4300692: g1_link83_geom3
+    4300694: g1_link83_geom4
+    4300696: rl3
+    4300698: g1_link84_geom1
+    4300700: g1_link84_geom2
+    4300702: g1_link84_geom3
+    4300704: g1_link84_geom4
+    4300706: g1_link84_geom5
+    4300708: rl4
+    4300710: g1_link85_geom1
+    4300712: g1_link85_geom2
+    4300714: g1_link85_geom3
+    4300716: g1_link85_geom4
+    4300718: g1_link85_geom5
+    4300720: g1_link85_geom6
+    4300722: g1_link85_geom7
+    4300724: g1_link85_geom8
+    4300726: rl5
+    4300728: g1_link86_geom1
+    4300730: rl6
+    4300732: ll0
+    4300734: g1_link88_geom1
+    4300736: g1_link88_geom2
+    4300738: ll1
+    4300740: ll2
+    4300742: g1_link90_geom1
+    4300744: g1_link90_geom2
+    4300746: g1_link90_geom3
+    4300748: g1_link90_geom4
+    4300750: ll3
+    4300752: g1_link91_geom1
+    4300754: g1_link91_geom2
+    4300756: g1_link91_geom3
+    4300758: g1_link91_geom4
+    4300760: g1_link91_geom5
+    4300762: ll4
+    4300764: g1_link92_geom1
+    4300766: g1_link92_geom2
+    4300768: g1_link92_geom3
+    4300770: g1_link92_geom4
+    4300772: g1_link92_geom5
+    4300774: g1_link92_geom6
+    4300776: g1_link92_geom7
+    4300778: g1_link92_geom8
+    4300780: ll5
+    4300782: g1_link93_geom1
+    4300784: ll6
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom0_mat
+    second: {fileID: 2100000, guid: 641aeb21e9dbc1145a246e771f4c761f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom1_mat
+    second: {fileID: 2100000, guid: b4d43aecd5ccca445999b879b7af8d2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom2_mat
+    second: {fileID: 2100000, guid: b5055f05f0a96224cac689684ab0bdc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom3_mat
+    second: {fileID: 2100000, guid: 821adfbd5ba1ca44fb816d3a2888f54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom4_mat
+    second: {fileID: 2100000, guid: 01683ed453501214582b7fd6d89c24df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom5_mat
+    second: {fileID: 2100000, guid: 7a09b367932256548b1b53eb553148e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom6_mat
+    second: {fileID: 2100000, guid: 6cd84bdc6f40ced40a900d721d515c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom7_mat
+    second: {fileID: 2100000, guid: 0c12ef74b4a1e9646aed87c7304eee71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom8_mat
+    second: {fileID: 2100000, guid: c1065c31fea305f46a2a2d302bab171c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link0_geom9_mat
+    second: {fileID: 2100000, guid: dcca55b842478494e997be6f064e296c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link10_geom0_mat
+    second: {fileID: 2100000, guid: 406f782a3e9238e4b9362ead54bed51b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link10_geom1_mat
+    second: {fileID: 2100000, guid: 2b29ff25c77ea814b831ff39b751ab4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link13_geom0_mat
+    second: {fileID: 2100000, guid: 027cbd7c3f451784189aa456adb3b242, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link14_geom0_mat
+    second: {fileID: 2100000, guid: 4e741afbc20376243b331c02aaf0883e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link14_geom1_mat
+    second: {fileID: 2100000, guid: 118d0c5740c2ab842abdb45e5accbbfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link14_geom2_mat
+    second: {fileID: 2100000, guid: 9c7bd01b689bf40459d7c49861c94ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link14_geom3_mat
+    second: {fileID: 2100000, guid: 2c328c22c6a89fa4794d4419b763851c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link14_geom4_mat
+    second: {fileID: 2100000, guid: 400a7b22c253c4c45aed7a8538228e78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom0_mat
+    second: {fileID: 2100000, guid: e5c039cb7efa5d64ba44f905af7d6187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom1_mat
+    second: {fileID: 2100000, guid: f6595010c6696a44db48a3673ae4f618, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom2_mat
+    second: {fileID: 2100000, guid: c95874155f5c8644bb658fe1e8269f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom3_mat
+    second: {fileID: 2100000, guid: 8ec559939d99e7341a7a022a35a5c293, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom4_mat
+    second: {fileID: 2100000, guid: 5e4d9c0d533eca646a439900f67fc903, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom5_mat
+    second: {fileID: 2100000, guid: 64a77844ff6ce80428c90e5b80a25357, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom6_mat
+    second: {fileID: 2100000, guid: 5e827fe3c9dc3cd45b315efe1aca73d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link15_geom7_mat
+    second: {fileID: 2100000, guid: 11cd00f4d87eb4841a9d984f00f1c0e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom0_mat
+    second: {fileID: 2100000, guid: 33872875846a8f44593be859788e6c38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom1_mat
+    second: {fileID: 2100000, guid: 79a3e08498d982442b43966b610006be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom2_mat
+    second: {fileID: 2100000, guid: 49183171e6728134c9026d457f6ec4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom3_mat
+    second: {fileID: 2100000, guid: 5e3e6bc2ac139254d9754e7a0e611f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom4_mat
+    second: {fileID: 2100000, guid: 11ca29e836eff9c40b4829ed2ef83864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom5_mat
+    second: {fileID: 2100000, guid: 67dfbd2cdc8d11e43bc7a43110df4e50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link16_geom6_mat
+    second: {fileID: 2100000, guid: 1a216b09a42c29844ba70215bf582f8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link17_geom0_mat
+    second: {fileID: 2100000, guid: 075704b31662758409725842eb3a1bbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link18_geom0_mat
+    second: {fileID: 2100000, guid: 3aade7ad36c9f8246a82e31a0379c906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link18_geom1_mat
+    second: {fileID: 2100000, guid: 7678879f7a5d98b40a248e35279d129b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link18_geom2_mat
+    second: {fileID: 2100000, guid: 9e52f99069fdd6e45ac280b9b5713a47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link18_geom3_mat
+    second: {fileID: 2100000, guid: 3471b20e2faff8447a0e69eb48dd14ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link18_geom4_mat
+    second: {fileID: 2100000, guid: d821156ed0aa63a43bd5ed9eb9eb77d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link19_geom0_mat
+    second: {fileID: 2100000, guid: 96f7e52b79475fc4196173890e55b281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link1_geom0_mat
+    second: {fileID: 2100000, guid: b445bbe9fe47890458b30c542b440daa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link1_geom1_mat
+    second: {fileID: 2100000, guid: 9c0d9b6a8127cfb40949fcb1622b001b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom0_mat
+    second: {fileID: 2100000, guid: 7ba731bcdf5ddb440934a54625b00188, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom1_mat
+    second: {fileID: 2100000, guid: 2a9219a2379736543b5b3988872c8bdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom2_mat
+    second: {fileID: 2100000, guid: d9b9de796dcc45747859be9b02905ddb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom3_mat
+    second: {fileID: 2100000, guid: 41f858176b001c74baf3e7f56868fcb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom4_mat
+    second: {fileID: 2100000, guid: 054b182148e14d346b126eb6690cb82f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom5_mat
+    second: {fileID: 2100000, guid: a34780d3c88dcf542adc4d54863acf1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link20_geom6_mat
+    second: {fileID: 2100000, guid: 910a6d5085e740049af828482e895e52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link22_geom0_mat
+    second: {fileID: 2100000, guid: 5b9460809699c0a4b928fd358d1d00a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link23_geom0_mat
+    second: {fileID: 2100000, guid: 60a18ab6f43c34b4da111c6349cf3bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link23_geom1_mat
+    second: {fileID: 2100000, guid: 1bb53ee12fd63ec46a1c21d77f56ba01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link23_geom2_mat
+    second: {fileID: 2100000, guid: e5a3eb576bdbfd0468020154d6f5b632, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom0_mat
+    second: {fileID: 2100000, guid: 5d78452196d69ff4bbe7506c77b3aefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom1_mat
+    second: {fileID: 2100000, guid: c3533f92297fb134ebd15d55c199f5c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom2_mat
+    second: {fileID: 2100000, guid: 6c8c800b3ec2e5946a676a24f3874d79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom3_mat
+    second: {fileID: 2100000, guid: 2cf98dce466bda3488d897ec8bd5fd41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom4_mat
+    second: {fileID: 2100000, guid: e9a3298bb61a831438df6278bbe3c0ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link24_geom5_mat
+    second: {fileID: 2100000, guid: 52feec2b0b5bdd448b733c193b030f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom0_mat
+    second: {fileID: 2100000, guid: 9cf10b9f0830f364c864e455c7e17d90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom1_mat
+    second: {fileID: 2100000, guid: b02b80f6cda8781429ed1c11d57cace1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom2_mat
+    second: {fileID: 2100000, guid: 5f94753af7369cc47a36e05b96e3ab37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom3_mat
+    second: {fileID: 2100000, guid: 1e2ce0741526f1444a4136d70f122386, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom4_mat
+    second: {fileID: 2100000, guid: af5211b6b9160f54fa05c5986a2c1bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link25_geom5_mat
+    second: {fileID: 2100000, guid: 72c132d60140d1c4381243675cd5dcfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link26_geom0_mat
+    second: {fileID: 2100000, guid: 5c9a9a3e933c737408360cefe965acc2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link26_geom1_mat
+    second: {fileID: 2100000, guid: 7f580b280f15f21408ef6919ab8728e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link26_geom2_mat
+    second: {fileID: 2100000, guid: 5984c66509d9c784c95efd9e2773b924, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link26_geom3_mat
+    second: {fileID: 2100000, guid: 09fd8a8e92efd364e988212987c4367b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link27_geom0_mat
+    second: {fileID: 2100000, guid: 15d041bac40427a40ab3f8a3162886c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom0_mat
+    second: {fileID: 2100000, guid: 64fd99f9a1721204593d1eb24f3ec557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom1_mat
+    second: {fileID: 2100000, guid: 2a78b8ec0b039da45abfd799117ed84b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom2_mat
+    second: {fileID: 2100000, guid: b7d4138c0d9c7a943ba0a2fd7b4f4152, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom3_mat
+    second: {fileID: 2100000, guid: 71b53c4af205d4545960887615bfe8a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom4_mat
+    second: {fileID: 2100000, guid: 4e984de2b00823c4eb765bd150fb36d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link28_geom5_mat
+    second: {fileID: 2100000, guid: f70a659e4d19f114daa1cef87c31a39c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom0_mat
+    second: {fileID: 2100000, guid: 68e0ca0133d87d245b42acb6bf6b088b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom1_mat
+    second: {fileID: 2100000, guid: bc13b52e597f8564d81e74381ddfd1e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom2_mat
+    second: {fileID: 2100000, guid: 40a4558a9f6ddd84b9fc8a0eb14f8423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom3_mat
+    second: {fileID: 2100000, guid: 697f341b2e46ab64192adc88d3af3f9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom4_mat
+    second: {fileID: 2100000, guid: d45a334d09dcd3e47a8996bdbcb22438, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link29_geom5_mat
+    second: {fileID: 2100000, guid: 83b10c1df0b5b354eb7264ffb9f89bb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom0_mat
+    second: {fileID: 2100000, guid: 0b95851f692bcc446901aa590ce42fd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom1_mat
+    second: {fileID: 2100000, guid: 4cd8fa90ce64a8a4f874f69ffdad8a78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom2_mat
+    second: {fileID: 2100000, guid: b9feae0bd58585c47b4035e45e25d22d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom3_mat
+    second: {fileID: 2100000, guid: 130f86c437fec46438004832fc81b481, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom4_mat
+    second: {fileID: 2100000, guid: 5da7309815e776e4ba4d245fcecf0704, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link2_geom5_mat
+    second: {fileID: 2100000, guid: e7026b1fbbda02c489743b4bfd9e90d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom0_mat
+    second: {fileID: 2100000, guid: c2c85ace0d2ef154cb87d60a9bfe7791, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom1_mat
+    second: {fileID: 2100000, guid: 6dbb9dd73d94e1f47a35132e48e7ada7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom2_mat
+    second: {fileID: 2100000, guid: 4705fbefd4758464ea73ba554fc2f864, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom3_mat
+    second: {fileID: 2100000, guid: cde1dc9bbde70c44398db9b4e3fb55df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom4_mat
+    second: {fileID: 2100000, guid: 482cdb7f184de9e49bdeb00ad07cd268, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link30_geom5_mat
+    second: {fileID: 2100000, guid: ec724cc5ffb18e646912b114504be549, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link31_geom0_mat
+    second: {fileID: 2100000, guid: 79f2d6bc897f78942be02f635d98e097, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link31_geom1_mat
+    second: {fileID: 2100000, guid: 69a8b910a980ef14fa6778ed55f19339, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link31_geom2_mat
+    second: {fileID: 2100000, guid: 3fb7b6af79ca33843976af477d55a3cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link31_geom3_mat
+    second: {fileID: 2100000, guid: 645e17265feb71340b635bdb461f65c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link32_geom0_mat
+    second: {fileID: 2100000, guid: f92bb0950d15d984ba4899c3ef92e656, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom0_mat
+    second: {fileID: 2100000, guid: 688059dd944d14941aa8a963f7315e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom1_mat
+    second: {fileID: 2100000, guid: 3a24df13ea4cb7147aa397e260c3094d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom2_mat
+    second: {fileID: 2100000, guid: 92c9516fd0fa11a4986a8e941cbeddca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom3_mat
+    second: {fileID: 2100000, guid: 26f404c59cf63e64cb31dd4a9e67f7a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom4_mat
+    second: {fileID: 2100000, guid: 19b6550626905d643a6f5fc6dd41c3d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link33_geom5_mat
+    second: {fileID: 2100000, guid: 5dfbe2f69a8f4de4398f7760da4524f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom0_mat
+    second: {fileID: 2100000, guid: 4eebae627a1be4642919f346c65821b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom1_mat
+    second: {fileID: 2100000, guid: 3e619c29fae2a734da8476b0a265a828, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom2_mat
+    second: {fileID: 2100000, guid: 2b68d6c6c76dc5543879f81bf08636b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom3_mat
+    second: {fileID: 2100000, guid: 730be91079bcfb241a162d1c30c035c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom4_mat
+    second: {fileID: 2100000, guid: 3d1160608a191434280f102508459aaf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link34_geom5_mat
+    second: {fileID: 2100000, guid: 33f67c5eb4736f246a17268243a19f5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom0_mat
+    second: {fileID: 2100000, guid: f94fbb7dfc978e346a5e56ff420b7fcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom1_mat
+    second: {fileID: 2100000, guid: 3c31740f52b37424b95ca80ab6b338a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom2_mat
+    second: {fileID: 2100000, guid: 32ebf9bc3f8d3bb42b8acfe282f8f7e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom3_mat
+    second: {fileID: 2100000, guid: b2fa121b587b01b419cb18b7e9a96e32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom4_mat
+    second: {fileID: 2100000, guid: 26c2f8b1623f86449a59e66f8e0e3216, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link35_geom5_mat
+    second: {fileID: 2100000, guid: 1324ec7a2db01454aadd48a9f9219871, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link36_geom0_mat
+    second: {fileID: 2100000, guid: ad79ad18e50cb0d419d83dab807354c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link36_geom1_mat
+    second: {fileID: 2100000, guid: 7ff4fb6dc0155034a83a0d40be3a391f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link36_geom2_mat
+    second: {fileID: 2100000, guid: a5fc8e2d829510140af3bac4aa2d44ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link36_geom3_mat
+    second: {fileID: 2100000, guid: 26eecce0047b13f4d85854e017a89079, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link37_geom0_mat
+    second: {fileID: 2100000, guid: 76c4a63366bb5a649872102f68900073, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom0_mat
+    second: {fileID: 2100000, guid: 974cad42dc909644c8c43de0839477f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom1_mat
+    second: {fileID: 2100000, guid: 13831e85444915943b0438def21da325, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom2_mat
+    second: {fileID: 2100000, guid: 38df9965120359e4b8a59b1563c9b51e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom3_mat
+    second: {fileID: 2100000, guid: a646630fea272f240a2397aaeebe3277, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom4_mat
+    second: {fileID: 2100000, guid: a5ede641ed9fce444aab531d6fa96302, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link38_geom5_mat
+    second: {fileID: 2100000, guid: 75ed1329d6a0aaf4583682b7452d3576, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom0_mat
+    second: {fileID: 2100000, guid: 69c103f7811f05148b027553d35396bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom1_mat
+    second: {fileID: 2100000, guid: f4b4a4dd5da030d469793446b29bfe6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom2_mat
+    second: {fileID: 2100000, guid: c87ae46dbc4780c44b31c7533db6216d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom3_mat
+    second: {fileID: 2100000, guid: 761239822b36cdf4aa90637b9324d10f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom4_mat
+    second: {fileID: 2100000, guid: 80203743d3f7fea4e92e81974b740fd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link39_geom5_mat
+    second: {fileID: 2100000, guid: 0e074613cc90a7144a34a28d6ecb795f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom0_mat
+    second: {fileID: 2100000, guid: 5a2b2be964f57bb4fac0a7518fe5e63b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom10_mat
+    second: {fileID: 2100000, guid: 4ed7312b91f1e134b9a813af7cc0e5fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom11_mat
+    second: {fileID: 2100000, guid: f8353f74313f36e4cb8d3d7cbbfe3fdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom1_mat
+    second: {fileID: 2100000, guid: 6c893a9b3d4fdbe469fc3c067cb71e5f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom2_mat
+    second: {fileID: 2100000, guid: 794d333ee863aa14ab204576abd50271, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom3_mat
+    second: {fileID: 2100000, guid: 13c25a0a88da57d4f8092834b00ff84a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom4_mat
+    second: {fileID: 2100000, guid: e4da83dec0f8248429d94e3d2bdd48f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom5_mat
+    second: {fileID: 2100000, guid: 9b5503e5dc667af48a15031900239e51, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom6_mat
+    second: {fileID: 2100000, guid: 1c40d5f4d92fc464a857b435aa8f0ec9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom7_mat
+    second: {fileID: 2100000, guid: 20fb90431e40d7846b73b4991dcf187b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom8_mat
+    second: {fileID: 2100000, guid: 7bd659f8197f9a542825fa77fb07890a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link3_geom9_mat
+    second: {fileID: 2100000, guid: 4e5997121cafcad4193684d6880ccbc4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom0_mat
+    second: {fileID: 2100000, guid: b7668db598d39e440bd6336570d32707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom1_mat
+    second: {fileID: 2100000, guid: e90a8ce251e8bc6479691c24e5409248, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom2_mat
+    second: {fileID: 2100000, guid: eccd129da4827de4182650180d1dba5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom3_mat
+    second: {fileID: 2100000, guid: 4da64a3281c275440b8a910eeaf4b9e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom4_mat
+    second: {fileID: 2100000, guid: a855c64bef74915418ce8dca2bd553db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link40_geom5_mat
+    second: {fileID: 2100000, guid: 55f42275915e93441b4931fc35944b68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link41_geom0_mat
+    second: {fileID: 2100000, guid: c4230be1aa54f9846961bde8c120a8bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link41_geom1_mat
+    second: {fileID: 2100000, guid: 76e7109cfa30b28468a41eb85c61b0f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link41_geom2_mat
+    second: {fileID: 2100000, guid: e6742ecc805a9c745b2a94964109de78, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link41_geom3_mat
+    second: {fileID: 2100000, guid: 1fe711e08240fb9479af276ed34ef1fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link42_geom0_mat
+    second: {fileID: 2100000, guid: eea14bfa1cc465744a497c64bb6c4fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom0_mat
+    second: {fileID: 2100000, guid: ed0db86303d639f41b3ed959e5f21872, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom1_mat
+    second: {fileID: 2100000, guid: c788637cc0930dc4ebc4bb59c9270769, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom2_mat
+    second: {fileID: 2100000, guid: 76d699435e7dd6e40b80a586e31a1c5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom3_mat
+    second: {fileID: 2100000, guid: d73e320e6f727c84199ffa98f1a36a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom4_mat
+    second: {fileID: 2100000, guid: e5a64c11c61d10342a6d29df82774fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link43_geom5_mat
+    second: {fileID: 2100000, guid: 8d82c3088754df244999f558954ee2c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom0_mat
+    second: {fileID: 2100000, guid: bf82b77ea02a76b4cbaa1f1e960061e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom1_mat
+    second: {fileID: 2100000, guid: 1b4e8256adb9e314f88cbc91e7ef3598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom2_mat
+    second: {fileID: 2100000, guid: 80f510b298a1572499d6b269dc50fc1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom3_mat
+    second: {fileID: 2100000, guid: 711110dc69306134f816d1f120c96b10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom4_mat
+    second: {fileID: 2100000, guid: 3973e0827f7186e4f878e2e4e9314c8c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link44_geom5_mat
+    second: {fileID: 2100000, guid: 2bc8f0f97ebf1324faf39583bd4ed679, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom0_mat
+    second: {fileID: 2100000, guid: fb56fcccce6d060428968b57b186bf4b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom1_mat
+    second: {fileID: 2100000, guid: fdf4e0ca61c59ed459dd63c7083b7d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom2_mat
+    second: {fileID: 2100000, guid: d7a7301217f0b76448ceb43b3b7c0c73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom3_mat
+    second: {fileID: 2100000, guid: d6b5dced2c23fb1449eead00477bb7b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom4_mat
+    second: {fileID: 2100000, guid: 64dcdf5570426154e84047de523f2bc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link45_geom5_mat
+    second: {fileID: 2100000, guid: 98d1a229e04c5f642acf6b84225d8a49, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link46_geom0_mat
+    second: {fileID: 2100000, guid: 3125282e5d5635849940674097203404, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link46_geom1_mat
+    second: {fileID: 2100000, guid: 567810cc10ac873479256c31c2819642, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link46_geom2_mat
+    second: {fileID: 2100000, guid: e880406682f09774dbaa547b73a487b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link46_geom3_mat
+    second: {fileID: 2100000, guid: 49fadf044513cf341abd9c9447de3ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link47_geom0_mat
+    second: {fileID: 2100000, guid: 2682cbb65db509c46896772135e824a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link48_geom0_mat
+    second: {fileID: 2100000, guid: ef61199fc68868b4a90ff289c85919d5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link48_geom1_mat
+    second: {fileID: 2100000, guid: b4dfc23cc3b40894a85a36db6712ae92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link48_geom2_mat
+    second: {fileID: 2100000, guid: 1fa5b1b0b79618f459c7a32e1c7683f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link48_geom3_mat
+    second: {fileID: 2100000, guid: 7ee5c1f8113894440acfa5d1b421d5d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link48_geom4_mat
+    second: {fileID: 2100000, guid: a51da7bcb00606642976ef1436ea7d56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom0_mat
+    second: {fileID: 2100000, guid: 6910d495338f1c0468e190b5bad86715, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom1_mat
+    second: {fileID: 2100000, guid: 8b76ba26715919c44a7ea090bf18537c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom2_mat
+    second: {fileID: 2100000, guid: 80de6c3bf7d9b6b4fb0a601ec5b7af43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom3_mat
+    second: {fileID: 2100000, guid: 2689f7c3e1c030a4ca6c9831e4026192, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom4_mat
+    second: {fileID: 2100000, guid: f4473e8b9bdb3a840b03e063958fbd09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom5_mat
+    second: {fileID: 2100000, guid: 4e7193049353f02478c1c3e4ae6a3906, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom6_mat
+    second: {fileID: 2100000, guid: 444c7e346cb3b42469f01aa0e59c14c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link49_geom7_mat
+    second: {fileID: 2100000, guid: 410a22aaa9a108b4490b9ecbbed2a314, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link4_geom0_mat
+    second: {fileID: 2100000, guid: 3204919258b29c24eb3b0fc5eb818f6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link4_geom1_mat
+    second: {fileID: 2100000, guid: cfd4dac0ad4fa5a4d8e342dd1eb0de45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom0_mat
+    second: {fileID: 2100000, guid: eac7597891c9b7e479eaf4e0190a657f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom1_mat
+    second: {fileID: 2100000, guid: 4bfe4a848daa36c48b8e40c210c56373, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom2_mat
+    second: {fileID: 2100000, guid: cfd53d6ad16b19842b405d135fd831d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom3_mat
+    second: {fileID: 2100000, guid: 9d5b446dc9e8c9c478e94259aed8515d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom4_mat
+    second: {fileID: 2100000, guid: c045aa0e1fe9b9b4dae75c40c6de36bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom5_mat
+    second: {fileID: 2100000, guid: 86cf8f11c190be24ebea4c0bb563a1f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link50_geom6_mat
+    second: {fileID: 2100000, guid: e785674325e07d540a3b1079a02e7037, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link51_geom0_mat
+    second: {fileID: 2100000, guid: 0dbc45c09d06d5d469455a69aacaa030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link52_geom0_mat
+    second: {fileID: 2100000, guid: 70c42a28de8188349892a0d0886420f2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link52_geom1_mat
+    second: {fileID: 2100000, guid: 6713ba5e80a72cc4e9523310476f0e25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link52_geom2_mat
+    second: {fileID: 2100000, guid: 93e03964f98862942a1d81ff6b07293f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link52_geom3_mat
+    second: {fileID: 2100000, guid: 426f24ca570a32f44abae81e05ff2c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link52_geom4_mat
+    second: {fileID: 2100000, guid: f0fa3b4e316963a409e717baa59b1b94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link53_geom0_mat
+    second: {fileID: 2100000, guid: bf38ca6bd2faf8c4fa0a5ebac15b82d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom0_mat
+    second: {fileID: 2100000, guid: 9262794bffa671c4a81c888e9045eba0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom1_mat
+    second: {fileID: 2100000, guid: 21df4de4d74fba54aa26d826945ba472, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom2_mat
+    second: {fileID: 2100000, guid: da6c6b3487321f8448392f91665bc5aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom3_mat
+    second: {fileID: 2100000, guid: ab00a1fe65d384849b7848c1ef79c926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom4_mat
+    second: {fileID: 2100000, guid: 67a2d7735026d7d4cabd9c88671c5a44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom5_mat
+    second: {fileID: 2100000, guid: 79cdb70db20c3f84daa5e71fe8c4d4e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link54_geom6_mat
+    second: {fileID: 2100000, guid: 4941486d5a27f8b4ba35e6c7cbd2e057, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link56_geom0_mat
+    second: {fileID: 2100000, guid: 049049b43eb229a449f83a052a71b575, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link57_geom0_mat
+    second: {fileID: 2100000, guid: 33bc2fd30e587544db1a67fae8bd1305, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link57_geom1_mat
+    second: {fileID: 2100000, guid: d398a5fd1f354454ebddb6abeb02d944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link57_geom2_mat
+    second: {fileID: 2100000, guid: 42a671589555cec4880bed6e10698281, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom0_mat
+    second: {fileID: 2100000, guid: 40802b297d7f37e449db1ccf41f98f18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom1_mat
+    second: {fileID: 2100000, guid: 80ec7ca4a69b6ed43a3ca1bcd5a42e1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom2_mat
+    second: {fileID: 2100000, guid: e618d201166e2a44585eec59373f3528, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom3_mat
+    second: {fileID: 2100000, guid: 24cad0b49f801c24f9019ddb23ca7f38, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom4_mat
+    second: {fileID: 2100000, guid: ece7c14959d131e45a92ff4d2726e9b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link58_geom5_mat
+    second: {fileID: 2100000, guid: b5c06e89e1e287c40af10a979a829109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom0_mat
+    second: {fileID: 2100000, guid: 15f420ca819afb843a220fe1822ca2e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom1_mat
+    second: {fileID: 2100000, guid: d0079660ecd4d7b4f93199692f2c2c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom2_mat
+    second: {fileID: 2100000, guid: ea21ec9af8e177a4aa6b6bff3d5dc952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom3_mat
+    second: {fileID: 2100000, guid: 6b849c731fa306d49b1eae5fee85b0f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom4_mat
+    second: {fileID: 2100000, guid: 62443dff44fdce04fb5ad8b94fea7b2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link59_geom5_mat
+    second: {fileID: 2100000, guid: 8fc2bdc4134894148a327ce9d1d71299, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link5_geom0_mat
+    second: {fileID: 2100000, guid: 97bba50f71f32084aa8c532805a456e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link60_geom0_mat
+    second: {fileID: 2100000, guid: 346d6a869fc43da42bd9f0b2ab86b2a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link60_geom1_mat
+    second: {fileID: 2100000, guid: 3555dbacbfa43d94b9cb9b009d9f2ed5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link60_geom2_mat
+    second: {fileID: 2100000, guid: f1d540be3aa7dde40bec3e1a0e055a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link60_geom3_mat
+    second: {fileID: 2100000, guid: 0a729d496119ff1488ab18d62ad14a41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link61_geom0_mat
+    second: {fileID: 2100000, guid: d3b6fbd6e6b2a494981cffb06b5503f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom0_mat
+    second: {fileID: 2100000, guid: 107a49568acd76a419a750e800a833d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom1_mat
+    second: {fileID: 2100000, guid: c1d3fa5db6729e74f8271096525a8508, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom2_mat
+    second: {fileID: 2100000, guid: 33ef4a0c8c0577b49b83d45d314cfd9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom3_mat
+    second: {fileID: 2100000, guid: 16415a3de4fab3d419c9782c62607971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom4_mat
+    second: {fileID: 2100000, guid: 4daa6fad048179545bfa0fdba947934c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link62_geom5_mat
+    second: {fileID: 2100000, guid: 5555a4cb8da510547bfb80797c00badb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom0_mat
+    second: {fileID: 2100000, guid: ba6e0aa22cb18c74e97f360ab8c4f0fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom1_mat
+    second: {fileID: 2100000, guid: 902e4435c3d5802418e5d707b8b27755, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom2_mat
+    second: {fileID: 2100000, guid: 159e7952f0d560b4a95cf3fd584d008f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom3_mat
+    second: {fileID: 2100000, guid: 268d28541576d31449ff292851902b76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom4_mat
+    second: {fileID: 2100000, guid: aa52083b40aa7b54da708f5f2649ca81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link63_geom5_mat
+    second: {fileID: 2100000, guid: 4be4b1c73ba63bc488555a5e2f8fe8e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom0_mat
+    second: {fileID: 2100000, guid: b0c504882e89f5a40b239963ae490b22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom1_mat
+    second: {fileID: 2100000, guid: 50af12b1743ba50419e91e7139153dde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom2_mat
+    second: {fileID: 2100000, guid: 9bc180c4bb5585b47ba7f6659bce265d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom3_mat
+    second: {fileID: 2100000, guid: aadd9fde150bf6248a8c23fb43f61b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom4_mat
+    second: {fileID: 2100000, guid: 37891db854eef41469484994f7c5c550, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link64_geom5_mat
+    second: {fileID: 2100000, guid: c983d04f38640fe49927b55fae70f2dd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link65_geom0_mat
+    second: {fileID: 2100000, guid: a897fd81c5c34a449818bc1bb43b4ec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link65_geom1_mat
+    second: {fileID: 2100000, guid: ca82cc7cbd243384288066516bb1dfba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link65_geom2_mat
+    second: {fileID: 2100000, guid: f0500171209b55a4e952bdbfeb2e5f9a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link65_geom3_mat
+    second: {fileID: 2100000, guid: 3087c29d55980d74a88a9f3a67f63415, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link66_geom0_mat
+    second: {fileID: 2100000, guid: 0fb7f075fc0d10a46b9f936c2a55d9c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom0_mat
+    second: {fileID: 2100000, guid: e276639ba448a564e956f1846d4d8973, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom1_mat
+    second: {fileID: 2100000, guid: 793cbf5444823374ea558a510bc1ba19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom2_mat
+    second: {fileID: 2100000, guid: 0fe28240cc7ea1747ac15a681360b8c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom3_mat
+    second: {fileID: 2100000, guid: a206af46c07c868439718529e186a1fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom4_mat
+    second: {fileID: 2100000, guid: 0f1acc30d74c8314ba0018ac106bcf01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link67_geom5_mat
+    second: {fileID: 2100000, guid: e8a3d3d0399f1c2458e02010b27fbc01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom0_mat
+    second: {fileID: 2100000, guid: 3d0b113898dc1ae49a118734b628425b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom1_mat
+    second: {fileID: 2100000, guid: 9aa9c955da3900445aff80c824a4feb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom2_mat
+    second: {fileID: 2100000, guid: 23777d3894c5939489917854b89296ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom3_mat
+    second: {fileID: 2100000, guid: 6702953589d55074eb7cd3d4c6aff2c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom4_mat
+    second: {fileID: 2100000, guid: 1594ed5ec55836648ae7ef9d1cf1ff68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link68_geom5_mat
+    second: {fileID: 2100000, guid: cd9852d5571e6ff48996fa8637813053, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom0_mat
+    second: {fileID: 2100000, guid: d967f2d23622e9948afa61258bc836a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom1_mat
+    second: {fileID: 2100000, guid: e5873f05ca0bbab429d717b08e308efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom2_mat
+    second: {fileID: 2100000, guid: 9220e56c4a2225f41b56f922ad55d949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom3_mat
+    second: {fileID: 2100000, guid: f4ae4633fc3c68b4fbc3c9466c399f39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom4_mat
+    second: {fileID: 2100000, guid: b4c41698cff9ab04f956d3a60efc506f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link69_geom5_mat
+    second: {fileID: 2100000, guid: 8d4761d97579fdd41b57d67c50fb90a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link6_geom0_mat
+    second: {fileID: 2100000, guid: dde501c02346c4c43af12be0d7d7a9e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link6_geom1_mat
+    second: {fileID: 2100000, guid: eca939c6e72653c45afc5f0aeeba4624, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link70_geom0_mat
+    second: {fileID: 2100000, guid: 84c88ada7ded5a040b15909f8b61ccdb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link70_geom1_mat
+    second: {fileID: 2100000, guid: 1e947907dbe1d5041a7f4ed5a46b4e83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link70_geom2_mat
+    second: {fileID: 2100000, guid: fd072213df497f149a0d6f714dde6935, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link70_geom3_mat
+    second: {fileID: 2100000, guid: 4cfdb88eca7fe64438b4aa275d7f24b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link71_geom0_mat
+    second: {fileID: 2100000, guid: 9083e77a6292a714f95853f39f0caaf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom0_mat
+    second: {fileID: 2100000, guid: eb4c8eeb1a63b984399eaad1604e131a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom1_mat
+    second: {fileID: 2100000, guid: 0cc09d8e46bbbb041b45700668d457da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom2_mat
+    second: {fileID: 2100000, guid: e2b06519ce856e542b4b71df59c8d3d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom3_mat
+    second: {fileID: 2100000, guid: 22702b9be1bff6a4da235b1c91e9f974, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom4_mat
+    second: {fileID: 2100000, guid: e88fcaad2992cc64e9c7601ac9238bce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link72_geom5_mat
+    second: {fileID: 2100000, guid: e166e6cb60221a14abef475943e25e97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom0_mat
+    second: {fileID: 2100000, guid: e6c43795d751fef4297efcee3527b8f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom1_mat
+    second: {fileID: 2100000, guid: d9a49a2cadafe0c488377cf8b3e406c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom2_mat
+    second: {fileID: 2100000, guid: 7e2f8847a0f65b749bb4efb18f89ac81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom3_mat
+    second: {fileID: 2100000, guid: 1500fa01fb5a770458b055ba646d534c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom4_mat
+    second: {fileID: 2100000, guid: 2fde3cf15da1da74fa3d679b4f93f3b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link73_geom5_mat
+    second: {fileID: 2100000, guid: 85c6153ecf0c21547a873e1cf5c48420, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom0_mat
+    second: {fileID: 2100000, guid: 04fbd52305bbc8f4daa3b7dd7294fa31, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom1_mat
+    second: {fileID: 2100000, guid: 01f5ae804c2af5247aa86f76f5d88ae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom2_mat
+    second: {fileID: 2100000, guid: 31b7d52997817304a93bb09c2e5e441e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom3_mat
+    second: {fileID: 2100000, guid: ff8daac43ccff0e4fbdf8122f16ef409, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom4_mat
+    second: {fileID: 2100000, guid: 10baf68f88a557844b1113c09c2f5747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link74_geom5_mat
+    second: {fileID: 2100000, guid: 43e4e0fe13818334e91b066060d72b1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link75_geom0_mat
+    second: {fileID: 2100000, guid: 2eb8e447471c07248967270839991e60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link75_geom1_mat
+    second: {fileID: 2100000, guid: 640ac03efa226f24e92bd4e7253d6c16, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link75_geom2_mat
+    second: {fileID: 2100000, guid: 0a07f830552c4c643a77ffdcce9ed0e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link75_geom3_mat
+    second: {fileID: 2100000, guid: 1c5ff886c5fa69746a53191f77adf382, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link76_geom0_mat
+    second: {fileID: 2100000, guid: 769fd9660e64e66468264fea205fb506, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom0_mat
+    second: {fileID: 2100000, guid: a0cb722d05f449647ada57adcf3aa905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom1_mat
+    second: {fileID: 2100000, guid: 6b54f4f222c23cc4abf49e7bbecf5eab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom2_mat
+    second: {fileID: 2100000, guid: 110e5d18d6088f24d954f00e30aee9ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom3_mat
+    second: {fileID: 2100000, guid: df96df2cb21baeb4c9d60d31b4c97d65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom4_mat
+    second: {fileID: 2100000, guid: e1775bd6306cd8f408144ad4e89c9ef1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link77_geom5_mat
+    second: {fileID: 2100000, guid: 547ce41052a14b449bcae5dc802e2f7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom0_mat
+    second: {fileID: 2100000, guid: 56fe71456259b754ca1fdf1da5f903af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom1_mat
+    second: {fileID: 2100000, guid: 958da0d32257caf4b9d7a8a694bce20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom2_mat
+    second: {fileID: 2100000, guid: 26259f6bf49ce0e43841b3548d9bf4fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom3_mat
+    second: {fileID: 2100000, guid: 26d0064f82ebdeb4d8efcbf997ca7534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom4_mat
+    second: {fileID: 2100000, guid: b911011638160ec41a2614aaa7f42353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link78_geom5_mat
+    second: {fileID: 2100000, guid: 8eb2ef06624919047b63cb0c378680fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom0_mat
+    second: {fileID: 2100000, guid: 05ec0412ff4a7f04c86767fb48a40379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom1_mat
+    second: {fileID: 2100000, guid: c45860cfafba4e04caa4e5097c1068ff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom2_mat
+    second: {fileID: 2100000, guid: 2a889bb7b87cc9546b6d16a0f1917137, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom3_mat
+    second: {fileID: 2100000, guid: 0d58b21e2d2319145b1b3f10619ded0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom4_mat
+    second: {fileID: 2100000, guid: 9cfd544375cf9d9479c444b0ab9d71d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link79_geom5_mat
+    second: {fileID: 2100000, guid: 3188c9193ca0f884998137f2567bdf94, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link80_geom0_mat
+    second: {fileID: 2100000, guid: 78470e1713155744dbab81709e6a95a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link80_geom1_mat
+    second: {fileID: 2100000, guid: 8c6f2c57747f988428a4264d8b0ce189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link80_geom2_mat
+    second: {fileID: 2100000, guid: e81f98bd863dedf408eff9ceeadb369a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link80_geom3_mat
+    second: {fileID: 2100000, guid: 0467d2ff08c9ac04d8d8cf57e5dc1088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link81_geom0_mat
+    second: {fileID: 2100000, guid: a00731f248b477c49b5ec17738a178c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link81_geom1_mat
+    second: {fileID: 2100000, guid: 7bc337f31ca138248b60b737f73437fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link81_geom2_mat
+    second: {fileID: 2100000, guid: 40d67ed5723b69147b9f620bb2980a2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link82_geom0_mat
+    second: {fileID: 2100000, guid: e4f1e3f3b2c5a3648b830c18e5deb490, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link83_geom0_mat
+    second: {fileID: 2100000, guid: 13e82a45052a2f64483dc90efaaada9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link83_geom1_mat
+    second: {fileID: 2100000, guid: 70cbe79d25e7daf4c8d46e6a55101066, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link83_geom2_mat
+    second: {fileID: 2100000, guid: dfc00183630db5a4ebb63e947e88e518, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link83_geom3_mat
+    second: {fileID: 2100000, guid: e292d01e279ef1f4cb6ef87a082541e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link83_geom4_mat
+    second: {fileID: 2100000, guid: 7a93b3e09b19b684a8f7a75a652e456f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom0_mat
+    second: {fileID: 2100000, guid: 01b29b43038b9a347bf95096d55c887f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom1_mat
+    second: {fileID: 2100000, guid: e128883a51ab36944a720fd1a8b3b95f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom2_mat
+    second: {fileID: 2100000, guid: 47b618d19a5ce224b9df8a7af73bf424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom3_mat
+    second: {fileID: 2100000, guid: 894df4e0f0509344b802594c674b6854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom4_mat
+    second: {fileID: 2100000, guid: 2a0d9baf9ee98204c91db4fd03516646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link84_geom5_mat
+    second: {fileID: 2100000, guid: 1f687f8a28be60748833a42d6b144e73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom0_mat
+    second: {fileID: 2100000, guid: 3c8bdfff653deed4095dc99e7667f0c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom1_mat
+    second: {fileID: 2100000, guid: da65fe87b6d283f4db00c14ce691bcb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom2_mat
+    second: {fileID: 2100000, guid: 2f7e0988593745d47a52ef46414a1c72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom3_mat
+    second: {fileID: 2100000, guid: 710d590666b30c249971102d045df916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom4_mat
+    second: {fileID: 2100000, guid: b85920a1660255748978295b7445cf45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom5_mat
+    second: {fileID: 2100000, guid: 2e42aa1bd2275cc4aa48a3f9cf679dc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom6_mat
+    second: {fileID: 2100000, guid: 2b051fd9526cc4344a543bb894727f0c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom7_mat
+    second: {fileID: 2100000, guid: e0d733d2a20d34649820d8885af4ce59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link85_geom8_mat
+    second: {fileID: 2100000, guid: 10adf06cc8a706348b0e2e8f747ef9c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link86_geom0_mat
+    second: {fileID: 2100000, guid: ec2da851b87a09a4aabce0ce9a9056c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link86_geom1_mat
+    second: {fileID: 2100000, guid: f4d20fd3229ef9e4c99df14984549f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link87_geom0_mat
+    second: {fileID: 2100000, guid: 7a5f564882d916a478603c3d7205ee99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link88_geom0_mat
+    second: {fileID: 2100000, guid: 4592c8c16f657eb41a4225f221e8ca20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link88_geom1_mat
+    second: {fileID: 2100000, guid: 65fab0d09ccee3246bed8ab98453fda8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link88_geom2_mat
+    second: {fileID: 2100000, guid: 99c9031f21ad2434587b37552d644297, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link89_geom0_mat
+    second: {fileID: 2100000, guid: 1d72f763a492d1f4ebfdbe2766f6ffce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link8_geom0_mat
+    second: {fileID: 2100000, guid: 82a87f93201574e49bc8be1947ff4707, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link8_geom1_mat
+    second: {fileID: 2100000, guid: 01beaeda7dec54d42a874c1e291dcba4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link90_geom0_mat
+    second: {fileID: 2100000, guid: e962760f559ffb640ada0301e5ab792e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link90_geom1_mat
+    second: {fileID: 2100000, guid: 521dec1ef3eb4d949adfa9a1cc578f57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link90_geom2_mat
+    second: {fileID: 2100000, guid: 3c08c0e408c08c64cb473880ba22b3c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link90_geom3_mat
+    second: {fileID: 2100000, guid: af4c402eb8693cd47a1b68464d7f646d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link90_geom4_mat
+    second: {fileID: 2100000, guid: 2d64a60aa343999449a507e5500ac160, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom0_mat
+    second: {fileID: 2100000, guid: 9449dadf9a59c0e488b941b03a2e1944, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom1_mat
+    second: {fileID: 2100000, guid: 3cadca5ad95c1db49a19d72d8699a218, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom2_mat
+    second: {fileID: 2100000, guid: 26dd0e5bce2bea545a14ba22cbc56367, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom3_mat
+    second: {fileID: 2100000, guid: a52ce6e8606d93444a9c7eae2a3baeb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom4_mat
+    second: {fileID: 2100000, guid: 44b981a737d8ddc4a876a8ae9575ec47, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link91_geom5_mat
+    second: {fileID: 2100000, guid: 66043fd8a8a94e3499544985e05bacf2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom0_mat
+    second: {fileID: 2100000, guid: c062a9406934d4f479248455dacb1e7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom1_mat
+    second: {fileID: 2100000, guid: 2b82c71e818e459449dd6b27aef6543f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom2_mat
+    second: {fileID: 2100000, guid: 03744371669344e4c8fe1630c153c9c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom3_mat
+    second: {fileID: 2100000, guid: ced0453460338b44fa405f663e92f970, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom4_mat
+    second: {fileID: 2100000, guid: 9e8c5e56f37fbde41a78dd364d78adcb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom5_mat
+    second: {fileID: 2100000, guid: 6de9e6ac56fe1a744a4473a6be379e15, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom6_mat
+    second: {fileID: 2100000, guid: c5a0f867708b6a74ba9b631434cdae57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom7_mat
+    second: {fileID: 2100000, guid: bb94e1b502c59a94188372c661f5c9a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link92_geom8_mat
+    second: {fileID: 2100000, guid: a55625327eb05c2418d97894b6c38d87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link93_geom0_mat
+    second: {fileID: 2100000, guid: 015cff9276175a84f9b84c29e44760df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link93_geom1_mat
+    second: {fileID: 2100000, guid: d45280114b9ef0d408f2858d21071949, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: g1_link94_geom0_mat
+    second: {fileID: 2100000, guid: 8cef998f769a46f46b9da87fb9b227a3, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

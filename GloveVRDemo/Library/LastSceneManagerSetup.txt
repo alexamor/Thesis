@@ -1,0 +1,5 @@
+sceneSetups:
+- path: "D:/Outros/VMG_Unity_Plugins V. 1.2.0 - C\xF3pia/Assets/AlexDemo/AlexDemo.unity"
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

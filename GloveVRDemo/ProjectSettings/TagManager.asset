@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - AdamRoot
+  - Spine02
+  - Hand
+  - tipIndexR
+  - LowerArmR
+  - AdamHead
+  - AdamLEye
+  - Object
+  - spine03
+  - tipLittleR
+  - tipRingR
+  - tipThumbR
+  - AdamRightHandMiddle
+  - TipIndex1R
+  - TipMiddle1R
+  - tipMiddleR
+  - lowerArmTwistR
+  - AdamRightHand
+  - AdamREye
+  - Table
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
