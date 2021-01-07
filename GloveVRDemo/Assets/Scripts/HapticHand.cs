@@ -177,7 +177,7 @@ public class HapticHand : MonoBehaviour {
 			//Debug.Log(this.gameObject.name + "-ColEnter " + collision.gameObject.name + "  ctct: " + conPoints[0] + "  normal: " + normals[0]);
 
 
-			Debug.Log("Collision Enter " + this.gameObject.name);
+			Debug.Log("Collision Enter " + this.gameObject.name + " " + Time.timeScale + " " + Time.time);
 		}
 	}
 
@@ -204,7 +204,7 @@ public class HapticHand : MonoBehaviour {
 
 			inContact[finger] = false;
 
-			Debug.Log("Collision Exit " + this.gameObject.name);
+			Debug.Log("Collision Exit " + this.gameObject.name + " " + Time.timeScale + " " + Time.time);
 		}
 	}
 

@@ -732,6 +732,9 @@ public class HandController : MonoBehaviour {
 
         // test = handR.rotation * chosenObject.transform.rotation;
         //Debug.Log("r: " + handR.rotation + " s: " + test * Quaternion.Inverse(chosenObject.transform.rotation));
+        //Quaternion auxV = handR.rotation* chosenObject.transform.rotation;
+
+        //Debug.Log("hR:" + handR.rotation + " cO:" + chosenObject.transform.rotation + " hR*cO:" + auxV + " res:" + auxV * Quaternion.Inverse(chosenObject.transform.rotation));
 
         if (!autopilot)
         {
@@ -951,6 +954,7 @@ public class HandController : MonoBehaviour {
             //Quaternion difAngle = new Quaternion(chosenObject.transform.rotation.x, chosenObject.transform.rotation.y, chosenObject.transform.rotation.z, chosenObject.transform.rotation.w) * invQ;
             Quaternion difAngle = handR.rotation * chosenObject.transform.rotation;
 
+            //Debug.Log(difAngle);
 
             writer.WriteLine(difAngle.x);
             writer.WriteLine(difAngle.y);
